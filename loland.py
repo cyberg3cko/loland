@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import os
 import time
 from datetime import datetime
 
@@ -10,10 +11,16 @@ status = page.status_code
 strf_date = datetime.today().strftime('%Y-%m-%d')
 outfile = "{}_LOLDrivers.csv".format(strf_date[2:].replace("-",""))
 
+
+def write_to_file(file_to_write, mode, content):
+    if len(content) > 40:
+        with open(file_to_write, mode) as loldrivers_csv:
+            loldrivers_csv.write(content)
+
+
 def main():
     if status == 200:
-        with open(outfile, "w") as loldrivers_csv:
-            loldrivers_csv.write("driver_id,kvs_filename,kvs_tag,kvs_sha256,kvs_authenti_sha256,tbs_sha256\n")
+        write_to_file(outfile, "w", "driver_id,kvs_filename,kvs_tag,kvs_sha256,kvs_authenti_sha256,tbs_sha256\n")
         tdrivers = BeautifulSoup(page.content, "html.parser")
         jdrivers = json.loads(tdrivers.text)
 
@@ -65,14 +72,17 @@ def main():
                     for tag in tags:
                         if tag.endswith(".sys"):
                             loldrivers_row = "{},{},{},{},{},{}\n".format(driver_id, kvs_filename, tag.lower(), kvs_sha256, kvs_authenti_sha256, tbs_sha256)
-                            if len(loldrivers_row) > 40:
-                                with open(outfile, "a") as loldrivers_csv:
-                                    loldrivers_csv.write(loldrivers_row)
+                            write_to_file("."+outfile, "a", loldrivers_row)
                 else:
                     loldrivers_row = "{},{},-,{},{},{}\n".format(driver_id, kvs_filename, kvs_sha256, kvs_authenti_sha256, tbs_sha256)
-                    if len(loldrivers_row) > 40:
-                        with open(outfile, "a") as loldrivers_csv:
-                            loldrivers_csv.write(loldrivers_row)
+                    write_to_file("."+outfile, "a", loldrivers_row)
+
+    if os.path.exists("."+outfile):
+        with open("."+outfile) as temp:
+            lines = temp.readlines()
+            lines = list(set(lines))
+        for line in lines:
+            write_to_file(outfile, "a", line)
 
 
 if __name__ == "__main__":
