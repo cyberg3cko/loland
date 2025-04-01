@@ -30,7 +30,7 @@ def main():
             driver_tags = driver["Tags"]
             driver_verified = driver["Verified"]
             driver_created = driver["Created"]
-            driver_category = driver["Category"]
+            driver_category = driver["Category"].replace(" drivers", "").replace(" driver", "").strip()
             # checking for Commands
             try:
                 if "Commands" in str(driver):
@@ -146,7 +146,7 @@ def main():
                             loldrivers_row = "{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_tag, driver_verified, driver_created, driver_category, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
                             write_to_file("."+outfile, "a", loldrivers_row)
                 else:
-                    loldrivers_row = "{},-,{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_verified, driver_created, driver_category, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
+                    loldrivers_row = "{},-,{},{},{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_verified, driver_created, driver_category, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
                     write_to_file("."+outfile, "a", loldrivers_row)
     else:
         print("\n\t{} status code received: unable to collect LOLDrivers.\n\tEnsure you have https://www.loldrivers.io open in your browser.\n".format(str(status)))
