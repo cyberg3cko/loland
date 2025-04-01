@@ -44,7 +44,7 @@ def main():
             except:
                 pass
             for known_vulnerable_sample in driver["KnownVulnerableSamples"]:
-                kvs_filename = known_vulnerable_sample["Filename"].lower()
+                kvs_filename = known_vulnerable_sample["Filename"].lower().strip()
                 # checking for file SHA256 hash
                 try:
                     if "SHA256" in str(known_vulnerable_sample):
@@ -56,7 +56,7 @@ def main():
                 # checking for Publisher
                 try:
                     if "Publisher" in str(known_vulnerable_sample):
-                        kvs_publisher = known_vulnerable_sample["Publisher"]
+                        kvs_publisher = known_vulnerable_sample["Publisher"].strip()
                     else:
                         kvs_publisher = "-"
                 except:
@@ -64,7 +64,7 @@ def main():
                 # checking for Company
                 try:
                     if "Company" in str(known_vulnerable_sample):
-                        kvs_company = known_vulnerable_sample["Company"]
+                        kvs_company = known_vulnerable_sample["Company"].strip()
                     else:
                         kvs_company = "-"
                 except:
@@ -88,7 +88,7 @@ def main():
                 # checking for OriginalFileName
                 try:
                     if "OriginalFilename" in str(known_vulnerable_sample):
-                        kvs_origfilename = known_vulnerable_sample["OriginalFilename"]
+                        kvs_origfilename = known_vulnerable_sample["OriginalFilename"].strip()
                     else:
                         kvs_origfilename = "-"
                 except:
@@ -97,9 +97,9 @@ def main():
                 try:
                     if "Imports" in str(known_vulnerable_sample):
                         kvs_imports = known_vulnerable_sample["Imports"]
-                        kvs_imports = str(kvs_imports)[2:-2].replace("', '", ";")
+                        kvs_import = str(kvs_imports)[2:-2].replace("', '", ";").lower().strip()
                     else:
-                        kvs_imports = "-"
+                        kvs_import = "-"
                 except:
                     pass
                 """# checking for Authenti SHA256 hash
@@ -142,13 +142,13 @@ def main():
                 if len(driver_tags) > 0 and ".sys" in str(driver_tags):
                     for driver_tag in driver_tags:
                         if driver_tag.endswith(".sys"):
-                            loldrivers_row = "{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_tag, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_imports, tbs_sha256)
+                            loldrivers_row = "{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_tag, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
                             write_to_file("."+outfile, "a", loldrivers_row)
                 else:
-                    loldrivers_row = "{},-,{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_imports, tbs_sha256)
+                    loldrivers_row = "{},-,{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
                     write_to_file("."+outfile, "a", loldrivers_row)
     else:
-        print("\n\t{} status code received: unable to collect LOLDrivers.\n".format(str(status)))
+        print("\n\t{} status code received: unable to collect LOLDrivers.\n\tEnsure you have https://www.loldrivers.io open in your browser.\n".format(str(status)))
 
     if os.path.exists("."+outfile):
         with open("."+outfile) as temp:
