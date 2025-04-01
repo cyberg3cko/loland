@@ -1,0 +1,961 @@
+driver_id,driver_tags,driver_verified,driver_created,driver_commands,kvs_filename,kvs_sha256,kvs_publisher,kvs_company,kvs_prodversion,kvs_fileversion,kvs_origfilename,kvs_imports
+ddca6daf-4932-4e82-ad3c-d92d47632ea4,6771b13a53b9c7449d4891e427735ea2.sys,TRUE,2023-07-31,-,,a2d32c28eb5945b85872697d7cfbe87813c09a0e1be28611563755f68b9cb88b,-,,,,,['ntoskrnl.exe']
+9c3c6e89-3916-498f-81e5-da057ab3ed42,windbg.sys,TRUE,2023-04-22,-,windbg.sys,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zam64.sys,TRUE,2023-01-09,-,zam64.sys,-,-,-,-,-,-,-
+57354c82-ff9c-4a54-8377-d195e4ff0a26,Mhyprot2.sys,TRUE,2023-01-09,-,mhyprot2.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO32.sys,TRUE,2023-01-09,-,asio64.sys,-,-,-,-,-,-,-
+afed9dff-245e-4875-a156-3c5584beed03,directio64.sys,TRUE,2023-05-06,-,directio64.sys,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,dd2f1f7012fb1f4b2fb49be57af515cb462aa9c438e5756285d914d65da3745b,-,Novell, Inc.,3.1.6,3.1.6.0,libnicm.sys,['ntoskrnl.exe']
+080a834f-3e19-4cae-b940-a4ecf901db28,-,TRUE,2023-07-22,-,,-,-,-,-,-
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,superbmc.sys,f8430bdc6fd01f42217d66d87a3ef6f66cb2700ebb39c4f25c8b851858cc4b35,-,Super Micro Computer, Inc.,2.0.0.0,2.0.0.0,superbmc.sys,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+af153e7c-13fa-4a40-a095-00726ad6d783,driver_1a74c2bd.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+dfce8b0f-d857-4808-80ef-61273c7a4183,Dh_Kernel_10.sys,TRUE,2023-01-09,-,dh_kernel_10.sys,-,-,-,-,-,-,-
+51a44484-8bcc-4150-8b94-4a755cff0af8,driver_b4f33ffe.sys,TRUE,2024-09-10,-,,b4f33ffef069c18e8a8834eb448dd1f1dbdaae93b140cfff5a1db015eb3ada2f,-,Chingachguk & Denger2k,0.1,0.1 built by: WinDDK,vusbbus.sys,['ntoskrnl.exe', 'ntoskrnl.exe', 'hal.dll']
+a338a9fc-9fe3-400c-9fe4-69bb7892602d,-,TRUE,2023-01-09,-,ucorew64.sys,-,-,-,-,-
+79542852-3a0c-43bc-bfa3-3eeb0e1d7fd2,VBoxDrv.sys,TRUE,2023-05-06,-,vboxdrv.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio.sys,caa85c44eb511377ea7426ff10df00a701c07ffb384eef8287636a4bca0b53ab,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3_64.sys,TRUE,2023-01-09,-,asio3.sys,-,-,-,-,-,-,-
+39742f99-2180-46d7-8538-56667c935cc3,viragt.sys,TRUE,2023-01-09,-,,a2096b460e31451659b0dde752264c362f47254c8191930bc921ff16a4311641,,TG Soft S.a.s.,1, 0, 0, 5,1, 0, 0, 5,viragt64.sys,['ntoskrnl.exe', 'HAL.dll']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,8138b219a2b1be2b0be61e5338be470c18ad6975f11119aee3a771d4584ed750,-,Novell, Inc.,3.1.11,3.1.11.0,libnicm.sys,['ntoskrnl.exe']
+bb1f80f3-d2fd-463e-9403-57c919bd976b,2.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,a0dd3d43ab891777b11d4fdcb3b7f246b80bc66d12f7810cf268a5f6f4f8eb7b,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+30e8d598-2c60-49e4-953b-a6f620da1371,wsftprm.sys,TRUE,2024-09-11,-,wsftprm.sys,-,-,-,-,-,-,-
+81a73e57-2e92-4d21-97d3-1c21eb4c3aea,LenovoDiagnosticsDriver.sys,TRUE,2023-01-09,-,lenovodiagnosticsdriver.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+a02e1801-f6fb-41c3-a782-05fdbed44a3c,atomicredteamcapcom.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+1c92e1bf-103b-4545-b242-e5a9858ec9c8,CSC.sys,TRUE,2024-08-21,-,csc.sys,-,-,-,-,-,-,-
+b3fd8560-79d3-40b7-b05f-c78044176c8c,xjokercontroller.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+ddf661c0-7dfc-4c26-89c5-00cd6a81a139,wfshbr64.sys,TRUE,2023-06-05,-,wfshbr64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,NalDrv.sys,TRUE,2023-01-09,-,iqvw64e.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO2.sys,TRUE,2023-01-09,-,asio32.sys,-,-,-,-,-,-,-
+a3c52cbe-90ca-432c-9520-761b60e7d9cb,AODDriver.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,ffd03584246730397e231eb8d16c1449aef2c3bc79bf9da3ebf8400a21b20ae7,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+7ce8fb06-46eb-4f4f-90d5-5518a6561f15,superman.sys,TRUE,2023-05-22,-,,-,-,-,-,-,-,-
+32155681-33e8-4d0d-b9f6-c822851e7321,RtsPer.sys,TRUE,2024-09-10,-,,a1fa7d8275ccd14a6adc438ef4b950e7de4ed26fcbe4b3e184243663b03c83d6,,Realtek Semiconductor Corporation,10.0.10011.16384,10.0.26100.21373,RTSPER.SYS,['cng.sys', 'ntoskrnl.exe', 'HAL.dll']
+afb8bb46-1d13-407d-9866-1daa7c82ca63,echo_driver.sys,TRUE,2023-07-14,-,echo.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO32.sys,TRUE,2023-01-09,-,asio3.sys,-,-,-,-,-,-,-
+7a9d34e4-c660-4388-ab61-4fd6f6bf1ad4,avkiller.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,7f84f009704bc36f0e97c7be3de90648a5e7c21b4f870e4f210514d4418079a0,-,Novell, Inc.,3.1.6,3.1.6.0,libnicm.sys,['ntoskrnl.exe']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,3b19a7207a55d752db1b366b1dea2fd2c7620a825a3f0dcffca10af76611118c,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+11a73c42-26aa-446b-8560-43eecb265091,driver_e1123b59.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,rtcore64.sys,01aa278b07b58dc46c84bd0b1b5c8e9ee4e62ea0bf7a695862444af32e87f1fd,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,b9b3878ddc5dfb237d38f8d25067267870afd67d12a330397a8853209c4d889c,-,,,,,['ntoskrnl.exe']
+1068f5cc-65dd-4fd0-b3d8-1d982b37405f,WinIO32A.sys,FALSE,2023-01-09,-,winio32a.sys,-,-,-,-,-,-,-
+f93e88c2-d0e8-4347-869f-efa568955e9d,WYProxy32.sys,FALSE,2023-01-09,-,wyproxy32.sys,-,-,-,-,-,-,-
+5a03dc5a-115d-4d6f-b5b5-685f4c014a69,sfdrvx64.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3.sys,TRUE,2023-01-09,-,asio64.sys,-,-,-,-,-,-,-
+62f76f62-ef82-49ea-a26f-36e5727e8d83,sysconp.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,fa21e3d2bfb9fafddec0488852377fbb2dbdd6c066ca05bb5c4b6aa840fb7879,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+7e80423f-8b30-4ee2-b904-9f5421826a8c,daxin_blank.sys,TRUE,2023-02-28,-,daxin_blank.sys,-,-,-,-,-,-,-
+25d5ebe3-e827-44a4-86fc-898844595c23,POORTRY.sys,TRUE,2023-03-04,-,poortry.sys,-,-,-,-,-,-,-
+09d2e61d-e041-4ec8-ab7b-385848456a36,driver_ab811ca5.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+576bb95a-f15e-4a0d-bcee-08791e1504e2,driver_d9f15d91.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,asio.sys,TRUE,2023-01-09,-,asio3_64.sys,-,-,-,-,-,-,-
+ce2d41fd-908f-414c-b6b5-338298f425b8,DirectIo.sys,FALSE,2023-01-09,-,directio.sys,4422851a0a102f654e95d3b79c357ae3af1b096d7d1576663c027cfbc04abaf9,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+a4aa80bc-4ecd-49ab-bc0f-0f49b07fdd7f,segwindrvx64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,67e9d1f6f7ed58d86b025d3578cb7a3f3c389b9dd425b7f46bb1056e83bffc78,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,00c02901472d74e8276743c847b8148be3799b0e3037c1dfdca21fa81ad4b922,-,Novell, Inc.,3.1.11,3.1.11.0,libnicm.sys,['ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,65025741ecd0ef516da01319b42c2d96e13cb8d78de53fb7e39cd53ea6d58c75,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,8ef0ad86500094e8fa3d9e7d53163aa6feef67c09575c169873c494ed66f057f,-,,,,,['ntoskrnl.exe']
+57f63efb-dc43-4dba-9413-173e3e4be750,AsrSmartConnectDrv.sys,TRUE,2023-01-09,-,asrsmartconnectdrv.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio64.sys,074ae477c8c7ae76c6f2b0bf77ac17935a8e8ee51b52155d2821d93ab30f3761,-,Realtek                                            ,1.006.0118.2017,1.006.0118.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+c734bcff-aaaa-4450-a9a9-25ee52aa7ff1,ktes.sys,FALSE,2023-06-05,-,ktes.sys,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,iqvw64e.sys,TRUE,2023-01-09,-,iqvw64e.sys,-,-,-,-,-,-,-
+cfd36b2e-cf96-498e-aeb6-ee20e7b33bbb,magdrvamd64.sys,TRUE,2023-01-09,-,magdrvamd64.sys,-,-,-,-,-,-,-
+32155681-33e8-4d0d-b9f6-c822851e7321,RtsPer.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+e299b0b6-e5e2-45b3-bf0b-c008068cebfa,BS_Flash64.sys,TRUE,2023-01-09,-,bs_flash64.sys,-,-,-,-,-,-,-
+90ecbbf7-b02f-424d-8b7d-56cc9e3b5873,eneio64.sys,TRUE,2023-05-06,-,eneio64.sys,-,-,-,-,-,-,-
+abcd2c10-1078-4cf9-b320-04ca38d22f98,Chaos-Rootkit.sys,TRUE,2023-06-05,-,chaos-rootkit.sys,-,-,-,-,-,-,-
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,8137ce22d0d0fc5ea5b174d6ad3506a4949506477b1325da2ccb76511f4c4f60,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 1, 0,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+eef1fcf4-8c54-420b-8d38-9c5f95129dcc,ntbios.sys,TRUE,2023-02-28,-,ntbios.sys,-,-,-,-,-,-,-
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,7702f240800528d8186e3e6a26e2680486fed65a6fb5a2a000ad12c1fb61a398,-,REALiX(tm),7.70,7.70 built by: WinDDK
+32ccd436-eb13-4ab3-83d4-3e5471f4e364,AsrDrv103.sys,TRUE,2023-01-09,-,asrdrv103.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO2.sys,TRUE,2023-01-09,-,asio64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+a08ee79f-801d-4b98-996f-55f6a72ac5f7,-,TRUE,2023-11-02,-,,4b4ea21da21a1167c00b903c05a4e3af6c514ea3dfe0b5f371f6a06305e1d27f,-,Interface Corporation,3.30.33.0,3.30.33.0
+0567c6c4-282f-406f-9369-7f876b899c25,-,TRUE,2023-05-06,-,procexp1627.sys,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+93740202-930c-4ab4-8603-8ec9532c5415,WinTapix.sys,TRUE,2023-06-05,-,wintapix.sys,-,-,-,-,-,-,-
+70acea34-7ed2-42d5-885c-eca3c2de640c,Sense5Ext.sys,TRUE,2023-03-04,-,sense5ext.sys,-,-,-,-,-,-,-
+51a44484-8bcc-4150-8b94-4a755cff0af8,driver_b4f33ffe.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,2fbbc276737047cb9b3ba5396756d28c1737342d89dce1b64c23a9c4513ae445,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 0, 2,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+214654eb-90c4-48c8-a183-0157e50bf07f,MsIo64.sys,TRUE,2023-05-06,-,msio32.sys,-,-,-,-,-,-,-
+39f427b6-aad3-4cb8-b363-9113a6d53b07,BS_RCIOW1064.sys,TRUE,2023-05-06,-,bs_rciow1064.sys,-,-,-,-,-,-,-
+a08ee79f-801d-4b98-996f-55f6a72ac5f7,-,TRUE,2023-11-02,-,,63865f04c1150655817ed4c9f56ad9f637d41ebd2965b6127fc7c02757a7800e,-,Interface Corporation,3.02.30.0,3.02.30.0
+4a80da66-f8f1-4af9-ba56-696cfe6c1e10,BS_Def64.sys,TRUE,2023-01-09,-,bs_def64.sys,-,-,-,-,-,-,-
+86b520f6-cc90-4488-b343-168cad88010d,gameink.sys,FALSE,2023-01-09,-,gameink.sys,-,-,-,-,-,-,-
+892292f9-b87c-40a5-80e5-8c9b02914e8b,wantd.sys,TRUE,2023-02-28,-,wantd.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,7149fbd191d7e4941a32a3118ab017426b551d5d369f20c94c4f36ae4ef54f26,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+868c6920-f6cb-4088-8277-095a1358abe1,GLCKIO2.sys,TRUE,2023-01-09,-,glckio2.sys,-,-,-,-,-,-,-
+73196456-40ae-4b6d-8562-07cf99458a7d,kEvP64.sys,TRUE,2023-05-06,-,kevp64.sys,8e6363a6393eb4234667c6f614b2072e33512866b3204f8395bbe01530d63f2f,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+5ad8a3b6-6d20-4c95-8fa7-9a507167ba3c,netfilter2.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+90ecbbf7-b02f-424d-8b7d-56cc9e3b5873,eneio64.sys,TRUE,2023-05-06,-,eneio64.sys,9ee33ffd80611a13779df6286c1e04d3c151f1e2f65e3d664a08997fcd098ef3,-,,,,,['cng.sys', 'ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,96df0b01eeba3e6e50759d400df380db27f0d0e34812d0374d22ac1758230452,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zamguard32.sys,TRUE,2023-01-09,-,zamguard64.sys,-,-,-,-,-,-,-
+71d930a7-3465-4d27-90d4-2a1a08bebb92,RtsUer.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,d9a3dc47699949c8ec0c704346fb2ee86ff9010daa0dbac953cfa5f76b52fcd1,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+920e3326-e5dc-446a-9993-6ec05266e0e0,ASIO32.sys,FALSE,2023-01-09,-,asio32.sys,-,-,,,,,-
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,6e9e9e0b9a23deec5f28dc45f0bbe7423565f037f74be2957e82e5f72c886094,-,REALiX(tm),7.80,7.80 built by: WinDDK
+c1265ee4-aed4-4e65-ac54-c64deb5e3b28,fur.sys,TRUE,2023-05-07,-,,-,-,-,-,-,-,-
+d9e00cc7-a8f4-4390-a6dc-0f5423e97da4,mydrivers.sys,FALSE,2023-01-09,-,mydrivers.sys,-,-,-,-,-,-,-
+7a7630d6-d007-4d84-a17d-81236d9693e1,d.sys,FALSE,2023-01-09,-,d.sys,-,-,-,-,-,-,-
+0215d6d6-e0c4-4a11-bd3a-40511f89d736,driver_5d61e4ea.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+868c6920-f6cb-4088-8277-095a1358abe1,GLCKIO2.sys,TRUE,2023-01-09,-,glckio2.sys,61a1bdddd3c512e681818debb5bee94db701768fc25e674fcad46592a3259bd0,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+0f6c3a28-4d04-474b-a098-37383f984686,WinIO32.sys,FALSE,2023-01-09,-,winio32.sys,-,-,-,-,-,-,-
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,,1d804efc9a1a012e1f68288c0a2833b13d00eecd4a6e93258ba100aa07e3406f,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,c6feb3f4932387df7598e29d4f5bdacec0b9ce98db3f51d96fc4ffdcc6eb10e1,-,Novell, Inc.,3.1.12,3.1.12.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+205721b7-b83b-414a-b4b5-8bacb4a37777,elrawdsk.sys,TRUE,2023-01-09,-,elrawdsk.sys,-,-,-,-,-,-,-
+a005e057-c84f-47cd-9b4b-5b1e51a06ab4,fidpcidrv64.sys,TRUE,2023-01-09,-,fidpcidrv64.sys,-,-,-,-,-,-,-
+920e3326-e5dc-446a-9993-6ec05266e0e0,ASIO32.sys,FALSE,2023-01-09,-,asio32.sys,-,-,-,-,-,-,-
+1ed9d02f-17cf-43dd-9645-a54452468a5e,WinIo64C.sys,FALSE,2023-01-09,-,winio64c.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO2.sys,TRUE,2023-01-09,-,asio3.sys,-,-,-,-,-,-,-
+f4126206-564f-49f5-a942-2138a3131e0e,-,TRUE,2023-05-06,-,nicm.sys,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,bedaisy.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,c640930c29ea3610a3a5cebee573235ec70267ed223b79b9fa45a80081e686a4,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,8ae383546761069b26826dfbf2ac0233169d155bca6a94160488092b4e70b222,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+d2806397-9ceb-47c8-b5f3-3aabec182ff5,-,TRUE,2023-01-09,-,,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,-,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+a22104a8-126d-449f-ba3e-28678c60c587,wantd_3.sys,TRUE,2023-02-28,-,wantd_3.sys,-,-,-,-,-,-,-
+f16f82de-1ad0-47d8-a869-2c10ed25d9f1,FH-EtherCAT_DIO.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zamguard64.sys,TRUE,2023-01-09,-,zam64.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,e89afd283d5789b8064d5487e04b97e2cd3fc0c711a8cec230543ebdf9ffc534,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,,326b53365f8486c78608139cac84619eff90be361f7ade9db70f9867dd94dcc9,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+3f39af20-802a-4909-a5de-7f6fe7aab350,AsrOmgDrv.sys,TRUE,2023-01-09,-,asromgdrv.sys,-,-,-,-,-,-,-
+31797996-6973-402d-a4a0-d01ce51e02c0,AsrIbDrv.sys,TRUE,2023-01-09,-,asribdrv.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3.sys,TRUE,2023-01-09,-,asio.sys,-,-,-,-,-,-,-
+e7fd8ffc-ab37-4a7b-8dc9-fc7432fbacae,driver_4d8bc539.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,54bf602a6f1baaec5809a630a5c33f76f1c3147e4b05cecf17b96a93b1d41dca,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e6338692-90e0-41b1-9481-a47e0df144ad,fidpcidrv.sys,FALSE,2023-01-09,-,fidpcidrv.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,3ac8e54be2804f5fa60d0d23a11ba323fba078a942c96279425aabad935b8236,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+45f2c348-bf17-40ab-8306-ef14231cc996,WinIO32B.sys,FALSE,2023-01-09,-,winio32b.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,3d8cfc9abea6d83dfea6da03260ff81be3b7b304321274f696ff0fdb9920c645,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,b7bba82777c9912e6a728c3e873c5a8fd3546982e0d5fa88e64b3e2122f9bc3b,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+0fc0563c-de9f-41d8-806a-748e04d57365,gftkyj64.sys,TRUE,2023-03-04,-,gftkyj64.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,d3eaf041ce5f3fd59885ead2cb4ce5c61ac9d83d41f626512942a50e3da7b75a,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,7108613244f16c2279c3c917aa49cef8acf0b92fdaa9ace19bf5cf634360d727,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+b51c441a-12c7-407d-9517-559cc0030cf6,capcom.sys,TRUE,2023-01-09,-,capcom.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,e6a2b1937fa277526a1e0ca9f9b32f85ab9cb7cb1a32250dd9c607e93fc2924f,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+067589f2-4f29-4dc4-bd50-a2e2ee57b25f,GameTerSafe.sys,FALSE,2023-01-09,-,gametersafe.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+ff77b58d-e143-4f61-92de-c0d9bc0af7d5,ACE-BASE.sys,FALSE,2024-02-22,-,ace-base.sys,-,-,-,-,-,-,-
+500e07cb-77c6-4e83-ae3f-73f70f1c10b5,tfbfs3ped.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,0be4912bfd7a79f6ebfa1c06a59f0fb402bd4fe0158265780509edd0e562eac1,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+7196366e-04f0-4aaf-9184-ed0a0d21a75f,t7.sys,FALSE,2023-01-09,-,t7.sys,-,-,-,-,-,-,-
+ea0e7351-b65c-4c5a-9863-83b9d5efcec3,ampa.sys,TRUE,2024-09-11,-,ampa.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+6a7d882b-3d9d-4334-be5f-2e29c6bf9ff8,kbdcap64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,834a3d755b5ae798561f8e5fbb18cf28dfcae7a111dc6a03967888e9d10f6d78,-,Novell, Inc.,3.1.10,3.1.10.0,libnicm.sys,['ntoskrnl.exe']
+61514cbd-6f34-4a3e-a022-9ecbccc16feb,atillk64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,e4c154a0073bbad3c9f8ab7218e9b3be252ae705c20c568861dae4088f17ffcc,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+f654ad84-c61d-477c-a0b2-d153b927dfcc,EIO.sys,TRUE,2023-05-20,-,eio.sys,-,-,-,-,-,-,-
+2cc3dd4f-8a1e-4f1f-9871-0a14815949b4,80.sys,FALSE,2023-01-09,-,80.sys,-,-,-,-,-,-,-
+bf01915d-045f-442c-a74e-25c56182123f,BSMIXP64.sys,TRUE,2023-01-09,-,bsmi.sys,-,-,-,-,-,-,-
+b0dedc3f-6e4b-497a-aade-390cbf4beebb,GtcKmdfBs.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,e3b257357be41a18319332df7023c4407e2b93ac4c9e0c6754032e29f3763eac,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+837ad058-65f4-4b75-8f21-b842e48db8a5,nvaudio.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,673bcec3d53fab5efd6e3bac25ac9d6cc51f6bbdf8336e38aade2713dc1ae11b,-,,0, 2, 1, 2,0, 2, 1, 2,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+855ade1f-8a9e-4c9d-ab8e-d7e409609852,elbycdio.sys,TRUE,2023-01-09,-,elbycdio.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio64.sys,074ae477c8c7ae76c6f2b0bf77ac17935a8e8ee51b52155d2821d93ab30f3761,-,Realtek                                            ,1.006.0118.2017,1.006.0118.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,dbebf6d463c2dbf61836b3eba09b643e1d79a02652a32482ca58894703b9addb,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,66a20fc2658c70facd420f5437a73fa07a5175998e569255cfb16c2f14c5e796,-,Novell, Inc.,3.1.11,3.1.11.0,libnicm.sys,['ntoskrnl.exe']
+34fa6ba4-dc7c-4fd6-b947-8a0bb8ebd031,amifldrv64.sys,TRUE,2023-01-09,-,amifldrv.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,b47be212352d407d0ef7458a7161c66b47c2aec8391dd101df11e65728337a6a,-,,,,,['ntoskrnl.exe']
+7f9842a0-8118-462e-8860-227265ff4379,NTIOLib.sys,TRUE,2023-05-06,-,ntiolib.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+902249eb-87cb-4c01-8da7-17675d743cd7,WinFlash64.sys,TRUE,2023-01-09,-,winflash64.sys,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,0cf91e8f64a7c98dbeab21597bd76723aee892ed8fa4ee44b09f9e75089308e2,-,Novell, Inc.,3.1.10,3.1.10.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+73290fcb-a0d7-481e-81a5-65a9859b50f5,pchunter.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+19d16518-4aee-4983-ba89-dbbe0fa8a3e7,AsrRapidStartDrv.sys,TRUE,2023-01-09,-,asrrapidstartdrv.sys,-,-,-,-,-,-,-
+6fc3034f-8b40-44ef-807a-f61d3ea2dece,NBIOLib_X64.sys,TRUE,2023-01-09,-,nbiolib_x64.sys,-,-,-,-,-,-,-
+7edb5602-239f-460a-89d6-363ff1059765,viragt64.sys,TRUE,2023-05-06,-,viragt64.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,770f33259d6fb10f4a32d8a57d0d12953e8455c72bb7b60cb39ce505c507013a,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+34fa6ba4-dc7c-4fd6-b947-8a0bb8ebd031,amifldrv64.sys,TRUE,2023-01-09,-,amifldrv64.sys,-,-,-,-,-,-,-
+a02ee964-a21e-4b08-9c98-a730c90bfd53,LMIinfo.sys,TRUE,2023-05-11,-,lmiinfo.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,7f190f6e5ab0edafd63391506c2360230af4c2d56c45fc8996a168a1fc12d457,-,,,,,['ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio64.sys,074ae477c8c7ae76c6f2b0bf77ac17935a8e8ee51b52155d2821d93ab30f3761,-,Realtek                                            ,1.006.0118.2017,1.006.0118.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+75b9b0c5-dd3e-4cf3-a693-c80f2feabb6a,5a4fe297c7d42539303137b6d75b150d.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+76b5dfae-b384-45ce-8646-b2eec6b76a1e,KfeCo11X64.sys,TRUE,2023-05-12,-,kfeco11x64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+e9b099f6-8a12-46f0-a540-40e88cf0ce17,nstrwsk.sys,FALSE,2023-01-09,-,nstrwsk.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,asio.sys,TRUE,2023-01-09,-,asio32.sys,-,-,-,-,-,-,-
+457f8b21-202a-4a3d-a18d-b4aaded9ef02,WinIo64B.sys,FALSE,2023-01-09,-,winio64b.sys,-,-,-,-,-,-,-
+e4609b54-cb25-4433-a75a-7a17f43cec00,HwRwDrv.sys,TRUE,2023-01-09,-,hwrwdrv.sys,-,-,-,-,-,-,-
+8ff4ab50-05b7-4bfa-b994-1920c4ed4978,ncpl.sys,TRUE,2023-01-09,-,ncpl.sys,-,-,-,-,-,-,-
+1524a54d-520d-4fa4-a7d5-aaaa066fbfc4,dbk64.sys,TRUE,2023-01-09,-,dbk64.sys,18e1707b319c279c7e0204074088cc39286007a1cf6cb6e269d5067d8d0628c6,-,,,,,['ksecdd.sys', 'ntoskrnl.exe', 'WDFLDR.SYS']
+1524a54d-520d-4fa4-a7d5-aaaa066fbfc4,dbk64.sys,TRUE,2023-01-09,-,dbk64.sys,-,-,-,-,-,-,-
+61514cbd-6f34-4a3e-a022-9ecbccc16feb,atillk64.sys,TRUE,2023-01-09,-,atillk64.sys,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,NalDrv.sys,TRUE,2023-01-09,-,iqvw64.sys,-,-,-,-,-,-,-
+b51c441a-12c7-407d-9517-559cc0030cf6,capcom.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+7ce8fb06-46eb-4f4f-90d5-5518a6561f15,gmer64.sys,TRUE,2023-05-22,-,gmer64.sys,-,-,-,-,-,-,-
+da066835-f37c-40bf-86bb-d77ad45c7f30,driver_fdd16a94.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+73196456-40ae-4b6d-8562-07cf99458a7d,kEvP64.sys,TRUE,2023-05-06,-,kevp64.sys,-,-,-,-,-,-,-
+ca415ed5-b611-4840-bfb2-6e1eacac33d1,Monitor_win10_x64.sys,TRUE,2023-01-09,-,monitor_win10_x64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,9bd8b0289955a6eb791f45c3203f08a64cbd457fd1b9d598a6fbbca5d0372e36,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+d0048840-970f-4ad5-9a07-1d39469d721f,asmmap64.sys,TRUE,2023-01-09,-,asmmap64.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,b9ed73af3aef69dc1fb91731d6d0a649e93f83d0f07ddb9729d71c2d00ed0801,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+23f11e19-0776-4dd4-9c9c-7f6b60f8553f,ATSZIO.sys,TRUE,2023-01-09,-,atszio.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,4ab41816abbf14d59e75b7fad49e2cb1c1feb27a3cb27402297a2a4793ff9da7,-,,,,,['ntoskrnl.exe']
+257d425f-f660-466c-8bee-c24cccf06daa,AsmIo64.sys,TRUE,2023-10-12,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,-,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+07c57c69-c8d7-40cf-8bcc-612671427044,tboflhelper.sys,TRUE,2024-09-11,-,tboflhelper.sys,aa20aa2316cd6d203146bd2bc5b7466ba7b83a8500654a688172bcafa82ab168,,TeraByte, Inc.,1.00,1.00,tboflhelper.sys,['ntoskrnl.exe']
+57354c82-ff9c-4a54-8377-d195e4ff0a26,Mhyprot2.sys,TRUE,2023-01-09,-,mhyprot.sys,-,-,-,-,-,-,-
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,kevp64.sys,-,-,-,-,-,-,-
+ca768fc5-9b5c-4ced-90ab-fd6be9a70199,amp.sys,TRUE,2023-01-09,-,amp.sys,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,f62911334068c9edd44b9c3e8dee8155a0097aa331dd4566a61afa3549f35f65,-,Novell, Inc.,3.1.10,3.1.10.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO64.sys,TRUE,2023-05-06,-,asupio.sys,bdcacee3695583a0ca38b9a786b9f7334bf2a9a3387e4069c8e6ca378b2791d0,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,e4cf438838dc10b188b3d4a318fd9ba2479abb078458d7f97591c723e2d637ce,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+66be9e0a-9246-4404-b5b5-7fbde351668f,BS_I2cIo.sys,TRUE,2023-05-06,-,bs_i2cio.sys,-,-,-,-,-,-,-
+fb783760-cb3f-4cf4-b4ac-8edb756b9821,atlAccess.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+2ea12acc-95b6-4f91-afb7-8ded7a2fe9d9,vmdrv.sys,TRUE,2023-05-06,-,vmdrv.sys,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zam64.sys,TRUE,2023-01-09,-,zamguard32.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,0aca4447ee54d635f76b941f6100b829dc8b2e0df27bdf584acb90f15f12fbda,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+5943b267-64f3-40d4-8669-354f23dec122,Agent64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+99668140-a8f6-48f8-86d1-cf3bf693600c,ProtectS.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,f2ed6c1906663016123559d9f3407bc67f64e0d235fa6f10810a3fa7bb322967,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,49f75746eebe14e5db11706b3e58accc62d4034d2f1c05c681ecef5d1ad933ba,-,,,,,['ntoskrnl.exe']
+cf94939a-703f-46a4-917b-d6af7e0685ef,mapmom.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,-,-,-,-,-,-,-
+3ab0d182-6365-47a7-89f4-34121e889503,HwOs2Ec10x64.sys,TRUE,2023-01-09,-,hwos2ec10x64.sys,-,-,-,-,-,-,-
+7ce8fb06-46eb-4f4f-90d5-5518a6561f15,gmer64.sys,TRUE,2023-05-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio.sys,caa85c44eb511377ea7426ff10df00a701c07ffb384eef8287636a4bca0b53ab,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,e32ab30d01dcff6418544d93f99ae812d2ce6396e809686620547bea05074f6f,-,ASUSTek Computer Inc.,0.2.1.7,0.2.1.7,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,-,-,-,-,-,-,-
+2da3a276-9e38-4ee6-903d-d15f7c355e7c,vboxdrv.sys,TRUE,2023-01-09,-,vboxdrv.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,ea50f22daade04d3ca06dedb497b905215cba31aae7b4cab4b533fda0c5be620,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,22418016e980e0a4a2d01ca210a17059916a4208352c1018b0079ccb19aaf86a,-,,,,,['ntoskrnl.exe']
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,6994b32e3f3357f4a1d0abe81e8b62dd54e36b17816f2f1a80018584200a1b77,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+6a7d882b-3d9d-4334-be5f-2e29c6bf9ff8,kbdcap64.sys,TRUE,2023-01-09,-,kbdcap64.sys,-,-,-,-,-,-,-
+974de971-1f78-47b9-8049-6c34f294acd5,bwrsh.sys,FALSE,2023-01-09,-,bwrsh.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,db90e554ad249c2bd888282ecf7d8da4d1538dd364129a3327b54f8242dd5653,-,,,,,['ntoskrnl.exe']
+4cb95b41-43b4-4806-b536-ae5fd8c76b0e,ViveRRAudio.sys,TRUE,2024-09-11,-,viverraudio.sys,-,-,-,-,-,-,-
+a5ebba11-5a31-48d2-9c6d-78bba397edf1,PcieCubed.sys,TRUE,2023-03-04,-,pciecubed.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,63af3fdb1e85949c8adccb43f09ca4556ae258b363a99ae599e1e834d34c8670,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+2e1531b2-d370-4543-9e2e-5319a1c13c22,daxin_blank2.sys,TRUE,2023-02-28,-,daxin_blank2.sys,-,-,-,-,-,-,-
+47fe1aaf-02cd-4a41-8bf5-0047015a2a6e,phymem64.sys,TRUE,2023-01-09,-,phymem64.sys,-,-,-,-,-,-,-
+cea8bd08-a3c5-4ae1-a568-387b909ada67,driver_146b8f4f.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+855ade1f-8a9e-4c9d-ab8e-d7e409609852,elbycdio.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+d64167b6-f281-41d8-9535-6cb925e77aec,EneTechIo64.sys,TRUE,2023-01-09,-,enetechio64.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,d21aba58222930cb75946a0fb72b4adc96de583d3f7d8dc13829b804eb877257,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,ca34f945117ec853a713183fa4e8cf85ea0c2c49ca26e73d869fee021f7b491d,-,Novell, Inc.,v2.0 (20060808),2.0.0.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+833fc08f-217d-4d3f-8c8e-782c61120407,kt2.sys,FALSE,2023-06-05,-,kt2.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+f4c22f4d-eff8-40c5-8b31-146abe5f17b7,physmem.sys,TRUE,2023-01-09,-,physmem.sys,c299063e3eae8ddc15839767e83b9808fd43418dc5a1af7e4f44b97ba53fbd3d,-,Hilscher Gesellschaft für Systemaoutomation mbH,1.0.0.0,1.0.0.0,physmem.sys,['ntoskrnl.exe']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,1cedd5815bb6e20d3697103cfc0275f5015f469e6007e8cac16892c97731c695,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,ce23c2dae4cca4771ea50ec737093dfafac06c64db0f924a1ccbbf687e33f5a2,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,67cd6166d791bdf74453e19c015b2cb1e85e41892c04580034b65f9f03fe2e79,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,1675eedd4c7f2ec47002d623bb4ec689ca9683020e0fdb0729a9047c8fb953dd,-,Novell, Inc.,3.1.12,3.1.12.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+3a9ea9a6-e5e3-439a-b892-1f78dd990099,SeasunProtect.sys,TRUE,2024-09-11,-,seasunprotect.sys,507b07b0dc0e638b65b4a4d11a462b35439c746d42337b9888927bf994176102,-,Chengdu Westhouse Interactive Entertainment Ltd.,1.2.6.1,1.2.6.1,SeasunProtect.sys,['ksecdd.sys', 'ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,-,-,-,-,-,-,-
+23f11e19-0776-4dd4-9c9c-7f6b60f8553f,ATSZIO64.sys,TRUE,2023-01-09,-,atszio.sys,-,-,-,-,-,-,-
+ca415ed5-b611-4840-bfb2-6e1eacac33d1,Monitor_win10_x64.sys,TRUE,2023-01-09,-,monitor_win10_x64.sys,e4a7da2cf59a4a21fc42b611df1d59cae75051925a7ddf42bf216cc1a026eadb,-,IObit,12.0.0.0,1.2.0.11,Monitor.sys,['ntoskrnl.exe', 'HAL.dll']
+3aa6e630-59be-4a15-a30c-aaed4c1edaf0,-,TRUE,2023-11-02,-,,-,-,-,-,-
+4137ecf0-05e7-463a-94da-47b7259d4433,81.sys,FALSE,2023-01-09,-,81.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,bbbeb5020b58e6942ec7dec0d1d518e95fc12ddae43f54ef0829d3393c6afd63,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+942f58d2-1300-4957-98a0-5f8d601bf55b,sepdrv3_1.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+bb808089-5857-4df2-8998-753a7106cb44,DBUtilDrv2.sys,TRUE,2023-01-09,-,dbutildrv2.sys,-,-,-,-,-,-,-
+58509acb-50b4-41a0-9de3-76c571a459e3,msio32.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+94eb0694-29ba-4f8e-b763-86c6371db6cc,winio64.sys,TRUE,2023-01-09,-,winio64.sys,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,3b7177e9a10c1392633c5f605600bb23c8629379f7f42957972374a05d4dc458,-,Novell, Inc.,3.1.12,3.1.12.0,libnicm.sys,['ntoskrnl.exe']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,bac1cd96ba242cdf29f8feac501110739f1524f0db1c8fcad59409e77b8928ba,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,-,-,-,-,-,-,-
+12ccd18a-11da-495a-b4b4-98a2f2bff180,yyprotect64.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+4d365dd0-34c3-492e-a2bd-c16266796ae5,ALSysIO64.sys,TRUE,2023-01-09,-,alsysio64.sys,-,-,-,-,-,-,-
+fbdd993b-47b1-4448-8c41-24c310802398,rwdrv.sys,TRUE,2023-01-09,-,rwdrv.sys,-,-,-,-,-,-,-
+72637cb1-5ca2-4ad0-a5df-20da17b231b5,wantd_4.sys,TRUE,2023-02-28,-,wantd_4.sys,8d9a2363b757d3f127b9c6ed8f7b8b018e652369bc070aa3500b3a978feaa6ce,-,Microsoft Corporation,6.1.7600.1172,6.1.7600.1172,wantd.sys,['ntoskrnl.exe', 'NDIS.SYS']
+c4eab0c0-caf2-42b9-84f1-b4690d3db0d4,SysInfoDetectorX64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+193df066-c27c-4343-a4eb-ad2ac417a4cc,nt5.sys,FALSE,2023-01-09,-,nt5.sys,-,-,-,-,-,-,-
+4c4e7664-af86-4483-858a-f59346f3d304,driver_930da474.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+0258df5c-c3c1-4ed5-ba8f-846d91526ffe,AsrDrv10.sys,TRUE,2023-01-09,-,asrdrv10.sys,-,-,-,-,-,-,-
+9a4fb66e-9084-4b21-9d76-a7afbe330606,AMDPowerProfiler.sys,TRUE,2023-01-09,-,amdpowerprofiler.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+f4990bdd-8821-4a3c-a11a-4651e645810c,IOMap64.sys,TRUE,2023-01-09,-,iomap64.sys,-,-,-,-,-,-,-
+354a9fcf-acf1-4151-94d2-af88116f605c,piddrv.sys,FALSE,2023-01-09,-,piddrv.sys,-,-,-,-,-,-,-
+a845a05c-5357-4b78-9783-16b4d34b2cb0,aswVmm.sys,TRUE,2023-01-09,-,aswvmm.sys,-,-,-,-,-,-,-
+0d039ee9-aaa5-49c2-a980-405d4290ee0a,telephonuAfY.sys,TRUE,2023-07-11,-,telephonuafy.sys,-,-,-,-,-,-,-
+cacc48e6-6ed8-431c-abee-88ee6c2dc3c1,nt2.sys,FALSE,2023-01-09,-,nt2.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+b28cc2ee-d4a2-4fe4-9acb-a7a61cad20c6,WiseUnlo.sys,TRUE,2023-01-09,-,wiseunlo.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO32.sys,TRUE,2023-01-09,-,asio.sys,-,-,-,-,-,-,-
+51808fa6-89a4-4f4d-aabc-0a7b0e99e34d,kdriver.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+1bf3b155-752a-4cc7-beb0-f202e525eb1a,daxin_blank1.sys,TRUE,2023-02-28,-,daxin_blank1.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,-,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8a1a4a5d-3e41-4539-80cd-0cb751f7fab3,ProcObsrvesx.sys,TRUE,2024-09-11,-,procobsrvesx.sys,-,-,-,-,-,-,-
+0e8da43d-92e0-43f9-bc34-50a7d15b34bd,etdsupp.sys,TRUE,2023-05-11,-,etdsupp.sys,-,-,-,-,-,-,-
+a08ee79f-801d-4b98-996f-55f6a72ac5f7,-,TRUE,2023-11-02,-,,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,e1cb86386757b947b39086cc8639da988f6e8018ca9995dd669bdc03c8d39d7d,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,8dcec67a1f4903981c3e0ab938784c2f241e041e26748e1c22059e0e507cfb37,-,REALiX(tm),7.50,7.50 built by: WinDDK
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,a495ffa623a5220179b0dd519935e255dd6910b7b7bc3d68906528496561ff53,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,3f9530c94b689f39cc83377d76979d443275012e022782a600dcb5cad4cca6aa,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,08828990218ebb4415c1bb33fa2b0a009efd0784b18b3f7ecd3bc078343f7208,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+394f49b2-2d78-4d0d-b374-1399695455f3,Afd.sys,TRUE,2024-08-21,-,afd.sys,-,-,-,-,-,-,-
+7bb5ff05-25f8-410d-ae99-c8e8f082d24f,WinRing0.sys,TRUE,2023-01-09,-,winring0x64.sys,-,-,-,-,-,-,-
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,72288d4978ee87ea6c8b1566dbd906107357087cef7364fb3dd1e1896d00baeb,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+7a0842ca-1a64-4ad1-9d66-25eb983d1742,DirectIo32.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+d64167b6-f281-41d8-9535-6cb925e77aec,EneTechIo64.sys,TRUE,2023-01-09,-,enetechio64.sys,06bda5a1594f7121acd2efe38ccb617fbc078bb9a70b665a5f5efd70e3013f50,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+0eb5f4ce-12a7-4b45-b021-42b995de07c5,Air_SYSTEM10.sys,TRUE,2023-03-03,-,air_system10.sys,-,-,-,-,-,-,-
+9d4358c3-5d6e-48a0-971e-e2ad7724c106,filwfp.sys,TRUE,2024-06-20,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,-,-,-,-,-,-,-
+e6378671-986d-42a1-8e7a-717117c83751,BioNTdrv.sys,TRUE,2025-03-02,-,,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zamguard64.sys,TRUE,2023-01-09,-,zamguard64.sys,-,-,-,-,-,-,-
+4db827b1-325b-444d-9f23-171285a4d12f,VProEventMonitor.sys,TRUE,2023-01-09,-,vproeventmonitor.sys,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,c190e4a7f1781ec9fa8c17506b4745a1369dcdf174ce07f85de1a66cf4b5ed8a,-,Novell, Inc.,v3.1.5 (20060828),3.1.5.0,libnicm.sys,['ntoskrnl.exe']
+fda3ff67-12dc-488c-a4c2-603f5bf420bd,cg6kwin2k.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+7c83cb1a-a5ab-4ea0-aa69-0e9a1d09a82f,GVCIDrv64.sys,TRUE,2023-01-09,-,gvcidrv64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,84bf1d0bcdf175cfe8aea2973e0373015793d43907410ae97e2071b2c4b8e2d4,-,,,,,['ntoskrnl.exe']
+275c80c5-a67c-4536-b29e-4e481242cb01,RTCore64.sys,TRUE,2023-05-06,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+618fbf89-f4e3-4b2a-a4b4-cc4bf7c180e0,POORTRY2.sys,TRUE,2023-03-04,-,poortry2.sys,-,-,-,-,-,-,-
+670dc258-78b5-4552-a16b-b41917c86f8d,driver7-x86.sys,TRUE,2023-01-09,-,driver7-x86.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,bceaf970b60b4457eca3c181f649a1c67f4602778171e53d9bdc9b97a09603ca,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,773999db2f07c50aad70e50c1983fa95804369d25a5b4f10bd610f864c27f2fc,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,ff1ccef7374a1a5054a6f4437e3e0504b14ed76e17090cc6b1a4ec0e2da427a5,-,REALiX(tm),8.60,8.60 built by: WinDDK
+8081b0d0-e18e-474a-bdfa-8ff1956d90cb,driver_0ffb4081.sys,TRUE,2024-09-10,-,,0ffb4081fe867c98118e472538e8a3e6feac2a9d80b5ae2d4e2b621b344cd6d9,-,,,,,['ntoskrnl.exe', 'HAL.dll', 'ntoskrnl.exe', 'HAL.dll']
+eb07ef7e-0402-48eb-8e06-8fb76eda5b84,LHA.sys,TRUE,2023-05-06,-,lha.sys,-,-,-,-,-,-,-
+a285591e-ad3c-46a3-a648-c58589ff5efc,amsdk.sys,TRUE,2023-05-22,-,amsdk.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio.sys,916c535957a3b8cbf3336b63b2260ea4055163a9e6b214f2a7005d6d36a4a677,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+d819bee2-3bff-481f-a301-acc3d1f5fe58,Se64a.sys,TRUE,2023-01-09,-,se64a.sys,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,NalDrv.sys,TRUE,2023-01-09,-,iqvw64.sys,37c637a74bf20d7630281581a8fae124200920df11ad7cd68c14c26cc12c5ec9,-,Intel Corporation ,1.3.2.17,1.3.2.17 built by: WinDDK,iQVW64.SYS,['ntoskrnl.exe', 'HAL.dll']
+f92f4c60-b39c-4726-ba74-dcab7f653ae2,hwdetectng.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+c98af16e-197f-4e66-bf94-14646bde32dd,CupFixerx64.sys,TRUE,2023-05-06,-,cupfixerx64.sys,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,28999af32b55ddb7dcfc26376a244aa2fe297233ce7abe4919a1aef2f7e2cee7,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+d74fdf19-b4b0-4ec2-9c29-4213b064138b,irec.sys,TRUE,2023-05-11,-,irec.sys,-,-,-,-,-,-,-
+3ea63674-2599-43b5-9390-4a929ec99f48,ktgn.sys,FALSE,2023-06-05,-,ktgn.sys,-,-,-,-,-,-,-
+a7bba474-815f-49be-bddc-4d76a64c866c,NTIOLib.sys,TRUE,2023-01-09,-,ntiolib.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,bb2422e96ea993007f25c71d55b2eddfa1e940c89e895abb50dd07d7c17ca1df,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,003e61358878c7e49e18420ee0b4a37b51880be40929a76e529c7b3fb18e81b4,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+d1441172-cc15-4a96-b782-f440bfb681e1,b4.sys,FALSE,2023-01-09,-,b4.sys,-,-,-,-,-,-,-
+0baa833c-e4e1-449e-86ee-cafeb11f5fd5,vboxguest.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,fb81b5f8bf69637dbdf050181499088a67d24577587bc520de94b5ee8996240f,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3.sys,TRUE,2023-01-09,-,asio32.sys,-,-,-,-,-,-,-
+a4aa80bc-4ecd-49ab-bc0f-0f49b07fdd7f,segwindrvx64.sys,TRUE,2023-01-09,-,segwindrvx64.sys,-,-,-,-,-,-,-
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,kevp64.sys,1aaa9aef39cb3c0a854ecb4ca7d3b213458f302025e0ec5bfbdef973cca9111c,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO64.sys,TRUE,2023-05-06,-,asupio64.sys,b4d47ea790920a4531e3df5a4b4b0721b7fea6b49a35679f0652f1e590422602,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,ab8f2217e59319b88080e052782e559a706fa4fb7b8b708f709ff3617124da89,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,,e61004335dfe7349f2b2252baa1e111fb47c0f2d6c78a060502b6fcc92f801e4,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+17a1ad58-ecf3-4dea-b1ca-336880d15256,f.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+933f5671-e995-4976-8392-52d34dcd4e05,TdkLib64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO2.sys,TRUE,2023-01-09,-,asio3_64.sys,-,-,-,-,-,-,-
+ef6b5fe8-6c4b-4b32-8adc-c1d8a83e8558,a26363e7b02b13f2b8d697abb90cd5c3.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,af298d940b186f922464d2ef19ccfc129c77126a4f337ecf357b4fe5162a477c,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,11208bbba148736309a8d2a4ab9ab6b8f22f2297547b100d8bdfd7d413fe98b2,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,,1deae340bf619319adce00701de887f7434deab4d5547a1742aeedb5634d23c6,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,66f8bd2b29763acfbb7423f4c3c9c3af9f3ca4113bd580ab32f6e3ee4a4fc64e,-,Novell, Inc.,3.1.6,3.1.6.0,libnicm.sys,['ntoskrnl.exe']
+127cde1d-905e-4c67-a2c3-04ea4deaea7d,wantd_6.sys,TRUE,2023-02-28,-,wantd_6.sys,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,b0b6a410c22cc36f478ff874d4a23d2e4b4e37c6e55f2a095fc4c3ef32bcb763,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+62e2a967-1f03-4225-a325-122b109208f3,DirectIo.sys,TRUE,2023-05-06,-,directio.sys,-,-,-,-,-,-,-
+d827f7a6-1832-4ddb-90dd-7a8cf1c7f25e,LcTkA.sys,TRUE,2023-03-04,-,lctka.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,f936ec4c8164cbd31add659b61c16cb3a717eac90e74d89c47afb96b60120280,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+f1dcb0e4-aa53-4e62-ab09-fb7b4a356916,netfilterdrv.sys,TRUE,2023-01-09,-,netfilterdrv.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,4a3d4db86f580b1680d6454baee1c1a139e2dde7d55e972ba7c92ec3f555dce2,-,,,,,['ntoskrnl.exe']
+33a9c9ae-5ca3-442d-9f0f-2615637c1c57,ntbios_2.sys,TRUE,2023-02-28,-,ntbios_2.sys,-,-,-,-,-,-,-
+9e87b6b0-00ed-4259-bcd7-05e2c924d58c,BSMEMx64.sys,TRUE,2023-01-09,-,bsmemx64.sys,-,-,-,-,-,-,-
+9ca73d04-3349-4c16-9384-94c43335a031,Driver7.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,e61a54f6d3869b43c4eceac3016df73df67cce03878c5a6167166601c5d3f028,-,,,,,['ntoskrnl.exe']
+43d0af25-c066-471f-bb73-6ce25dc7e0eb,Dh_Kernel.sys,TRUE,2023-01-09,-,dh_kernel.sys,-,-,-,-,-,-,-
+ad693146-4adf-4407-bb20-f2505e34c226,TGSafe.sys,FALSE,2023-01-09,-,tgsafe.sys,-,-,-,-,-,-,-
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO.sys,TRUE,2023-05-06,-,asupio.sys,-,-,-,-,-,-,-
+de365e80-45cb-48fb-af6e-0a96a5ad7777,CtiIo64.sys,True,2023-05-22,-,,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,a19fc837ca342d2db43ee8ad7290df48a1b8b85996c58a19ca3530101862a804,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO64.sys,TRUE,2023-05-06,-,asupio64.sys,-,-,-,-,-,-,-
+7cee2ce8-7881-4a9a-bb18-61587c95f4a2,DcProtect.sys,TRUE,2023-11-30,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO32.sys,TRUE,2023-01-09,-,asio3_64.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,5d7bfe05792189eaf7193bee85f0c792c33315cfcb40b2e62cc7baef6cafbc5c,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,9679758455c69877fce866267d60c39d108b495dca183954e4af869902965b3d,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 1, 1,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+705facba-b595-41dd-86a6-93aefe6a6234,titidrv.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+2d7c96d3-2d6c-44cd-a8a1-5239f571a24a,HW.sys,TRUE,2023-05-06,-,hw.sys,-,-,-,-,-,-,-
+8d14d798-338f-471e-bacb-6d9371c0f529,dbutil.sys,FALSE,2023-01-09,-,dbutil.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,613d6cc154586c21b330018142a89eac4504e185f0be7f86af975e5b6c046c55,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+ca1e8664-841f-4e4b-9e67-3f515cc249c6,ndislan.sys,TRUE,2023-02-28,-,ndislan.sys,-,-,-,-,-,-,-
+f654ad84-c61d-477c-a0b2-d153b927dfcc,EIO.sys,TRUE,2023-05-20,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio.sys,916c535957a3b8cbf3336b63b2260ea4055163a9e6b214f2a7005d6d36a4a677,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,edfc38f91b5e198f3bf80ef6dcaebb5e86963936bcd2e5280088ca90d6998b8c,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+a254e684-f6eb-40c4-a50a-7b76feb6cc02,directio64.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,e7b79fe1377b3da749590c080d4d96e59e622b1013b2183b98c81baa8bf2fffe,-,Novell, Inc.,3.1.12,3.1.12.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+afb8bb46-1d13-407d-9866-1daa7c82ca63,echo_driver.sys,TRUE,2023-07-14,-,echodriver,-,-,-,-,-,-,-
+b074dcb5-b278-4434-bdd9-14a055d724f3,mlgbbiicaihflrnh.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+45c42e32-6261-43c1-bdbd-cab58da729d8,capcom2.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+90afa27c-0f67-46a6-b4a9-809f55157c71,nscm.sys,TRUE,2023-05-06,-,nscm.sys,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,d04c72fd31e7d36b101ad30e119e14f6df9cbc7a761526da9b77f9e0b9888bc4,-,Novell, Inc.,3.1.12,3.1.12.0,libnicm.sys,['ntoskrnl.exe']
+05d7cfea-1fb9-4559-8837-d97b713254fe,4.sys,TRUE,2023-03-04,-,4.sys,8e035beb02a411f8a9e92d4cf184ad34f52bbd0a81a50c222cdd4706e4e45104,-,,,,,['ntoskrnl.exe', 'ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,8e88cb80328c3dbaa2752591692e74a2fae7e146d7d8aabc9b9ac9a6fe561e6c,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,fa9abb3e7e06f857be191a1e049dd37642ec41fb2520c105df2227fcac3de5d5,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+ddf661c0-7dfc-4c26-89c5-00cd6a81a139,wfshbr32.sys,TRUE,2023-06-05,-,wfshbr64.sys,-,-,-,-,-,-,-
+c44e6197-efab-49d2-8a5f-04ae4a0f0ea0,neofltr.sys,TRUE,2024-09-11,-,jnprva.sys,-,-,-,-,-,-,-
+8198f5af-4b40-4800-a22a-4a7cf957ef37,MSqPq.sys,TRUE,2023-06-05,-,msqpq.sys,-,-,-,-,-,-,-
+3e5c0fc4-bfe8-4af2-9613-4f56b0e3c2c8,malicious.sys,TRUE,2023-06-05,-,malicious.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,14938f68957ede6e2b742a550042119a8fbc9f14427fb89fa53fff12d243561c,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+424a387e-735e-49d1-99de-f067dcf1c3e9,TSDRVX64.sys,TRUE,2024-09-11,-,tsdrvx64.sys,-,-,-,-,-,-,-
+2da3a276-9e38-4ee6-903d-d15f7c355e7c,vboxdrv.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+fab98aaa-e4e7-4c4a-af65-c00d35cf66e9,cpuz141.sys,TRUE,2023-01-09,-,cpuz141.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+f33c2e80-7b01-416b-821a-ed06db4b6511,stdcdrv64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,NalDrv.sys,TRUE,2023-01-09,-,iqvw64e.sys,4429f32db1cc70567919d7d47b844a91cf1329a6cd116f582305f3b7b60cd60b,-,Intel Corporation ,1.03.0.7,1.03.0.7 built by: WinDDK,iQVW64.SYS,['ntoskrnl.exe', 'HAL.dll']
+647f72e7-f378-4908-946c-5e45fab448e8,driver_5c308aed.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,e89cb7217ec1568b43ad9ca35bf059b17c3e26f093e373ab6ebdeee24272db21,-,Novell, Inc.,3.1.10,3.1.10.0,libnicm.sys,['ntoskrnl.exe']
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,f9f2091fccb289bcf6a945f6b38676ec71dedb32f3674262928ccaf840ca131a,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,a6c05b10a5c090b743a61fa225b09e390e2dd2bd6cb4fd96b987f1e0d3f2124a,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+64f3d4b0-6d2b-4275-b3d4-15d092af4092,fiddrv64.sys,TRUE,2023-01-09,-,fiddrv64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio64.sys,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zam64.sys,TRUE,2023-01-09,-,zamguard64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+84ccb68d-ce34-4aa2-98d5-7f473c2e1b07,SysInfo.sys,TRUE,2023-01-09,-,sysinfo.sys,7049f3c939efe76a5556c2a2c04386db51daf61d56b679f4868bb0983c996ebb,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+9b65dba4-81a0-48cc-8ff0-a4f353881062,EneIo64.sys,TRUE,2023-01-09,-,eneio64.sys,-,-,-,-,-,-,-
+ce2d41fd-908f-414c-b6b5-338298f425b8,DirectIo.sys,FALSE,2023-01-09,-,directio.sys,-,-,-,-,-,-,-
+c4eab0c0-caf2-42b9-84f1-b4690d3db0d4,SysInfoDetectorX64.sys,TRUE,2023-11-02,-,,45e5977b8d5baec776eb2e62a84981a8e46f6ce17947c9a76fa1f955dc547271,-,Database Harbor Software,2.0.0.3,2.0.0.3,SysInfoDetectorX64.sys,['ntoskrnl.exe']
+23f11e19-0776-4dd4-9c9c-7f6b60f8553f,ATSZIO64.sys,TRUE,2023-01-09,-,atszio.sys,01e024cb14b34b6d525c642a710bfa14497ea20fd287c39ba404b10a8b143ece,-,ASUSTek Computer Inc.,0.2.1.7,0.2.1.7,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+57354c82-ff9c-4a54-8377-d195e4ff0a26,mhyprot.sys,TRUE,2023-01-09,-,mhyprot2.sys,-,-,-,-,-,-,-
+b1dd91b1-9ba3-4d68-a2d1-919039e18430,dcr.sys,TRUE,2023-04-14,-,dcr.sys,-,-,-,-,-,-,-
+3a9ea9a6-e5e3-439a-b892-1f78dd990099,SeasunProtect.sys,TRUE,2024-09-11,-,seasunprotect.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3_64.sys,TRUE,2023-01-09,-,asio.sys,-,-,-,-,-,-,-
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO.sys,TRUE,2023-05-06,-,asupio.sys,8f23313adb35782adb0ba97fefbfbb8bbc5fc40ae272e07f6d4629a5305a3fa2,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+6c0c60f0-895d-428a-a8ae-e10390bceb12,sfdrvx32.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO64.sys,TRUE,2023-05-06,-,asupio.sys,-,-,-,-,-,-,-
+10b1fc3d-c444-4885-8ca9-4b5891885507,atillk64.sys,TRUE,2023-05-06,-,atillk64.sys,-,-,-,-,-,-,-
+9713603a-53bf-4907-a304-b422db741fc6,typelibdE.sys,TRUE,2023-07-12,-,,-,-,-,-,-,-,-
+76b5dfae-b384-45ce-8646-b2eec6b76a1e,KfeCo11X64.sys,TRUE,2023-05-12,-,kfeco11x64.sys,9a91d6e83b8fdec536580f6617f10dfc64eedf14ead29a6a644eb154426622ba,,Rivet Networks, LLC.,9.8.4.59,9.8.4.59,KfeCoDrv.sys,['ntoskrnl.exe', 'NDIS.SYS', 'fwpkclnt.sys', 'WDFLDR.SYS']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,ab8f2217e59319b88080e052782e559a706fa4fb7b8b708f709ff3617124da89,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,c0ae3349ebaac9a99c47ec55d5f7de00dc03bd7c5cd15799bc00646d642aa8de,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+e42cd285-4dda-4086-a696-93ab1d6f17ca,HOSTNT.sys,TRUE,2023-01-09,-,hostnt.sys,07b6d69bafcfd767f1b63a490a8843c3bb1f8e1bbea56176109b5743c8f7d357,-,SafeNet, Inc.,4, 0, 16, 0,4, 0, 16, 0,Hostnt.sys,['ntoskrnl.exe', 'HAL.dll']
+0f64bf7a-2ef2-45ea-af7d-4e7c87d98777,psmounterex.sys,TRUE,2024-09-11,-,psmounterex.sys,-,-,-,-,-,-,-
+2ba1bccf-d8d7-464a-9ae1-41371c55e5e8,driver_099ef491.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+87752fb8-e9f6-4235-91e2-c4343677d817,mimidrv.sys,TRUE,2023-05-22,-,mimidrv.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3_64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+86b9c8d6-9c59-4fd4-befd-ab9a36a19e36,dellinstrumentation.sys,TRUE,2025-01-13,-,,-,-,-,-,-,-,-
+f5c1a46f-21e6-4b06-b212-2dc55b699497,driver_290bc782.sys,TRUE,2024-09-10,-,,290bc7822da41f0b5580b27c8d14a2a5c3fbe3e4b6921957b134efc6beeb0aeb,-,Microsoft Corporation,6.2.9200.22099,6.2.9200.22099 (win8_ldr.170212-0600),usbxhci.sys,['ntoskrnl.exe', 'HAL.dll', 'WDFLDR.SYS']
+f694c0e1-b75d-4c41-acbd-a87b72d8abe4,driver_a6deeea6.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+4b047bb8-c605-4664-baed-25bb70e864a1,Black.sys,FALSE,2023-01-09,-,black.sys,-,-,-,-,-,-,-
+f1dcb0e4-aa53-4e62-ab09-fb7b4a356916,netfilterdrv.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+412f4aaf-5525-458c-b87e-311e504b856d,mJj0ge.sys,TRUE,2023-05-07,-,mjj0ge.sys,-,-,-,-,-,-,-
+a08ee79f-801d-4b98-996f-55f6a72ac5f7,-,TRUE,2023-11-02,-,,05c15a75d183301382a082f6d76bf3ab4c520bf158abca4433d9881134461686,-,Interface Corporation,3.30.33.0,3.30.33.0
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,-,-,-,-,-,-,-
+a08ee79f-801d-4b98-996f-55f6a72ac5f7,-,TRUE,2023-11-02,-,,9c8ed1506b3e35f5eea6ac539e286d46ef76ddbfdfc5406390fd2157c762ce91,-,Interface Corporation,3.02.30.0,3.02.30.0
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,-,-,-,-,-,-,-
+a08ee79f-801d-4b98-996f-55f6a72ac5f7,-,TRUE,2023-11-02,-,,11832c345e9898c4f74d3bf8f126cf84b4b1a66ad36135e15d103dbf2ac17359,-,Interface Corporation,1.61-20,1.61-20
+afb8bb46-1d13-407d-9866-1daa7c82ca63,echo_driver.sys,TRUE,2023-07-14,-,echo_driver.sys,-,-,-,-,-,-,-
+d158321b-4d56-49c5-9a18-bcff9f4a2ebe,BS_HWMIo64.sys,TRUE,2023-01-09,-,bs_hwmio64.sys,-,-,-,-,-,-,-
+7bb4d807-9a66-48ff-9fb7-82780f3b015e,RadHwMgr.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+af98f6e6-f19e-4705-a7b9-e7ee7377447b,fildds.sys,TRUE,2024-06-20,-,,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,0cfb7ea2cc515a7fe913ab3619cbfcf1ca96d8cf72dc350905634a5782907a49,-,Novell, Inc.,3.1.6,3.1.6.0,libnicm.sys,['ntoskrnl.exe']
+02e4a30f-8aa8-4ff0-8e02-1bff1d0f088f,AsrAutoChkUpdDrv_1_0_32.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+b28cc2ee-d4a2-4fe4-9acb-a7a61cad20c6,WiseUnlo.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+19d16518-4aee-4983-ba89-dbbe0fa8a3e7,AsrRapidStartDrv.sys,TRUE,2023-01-09,-,asrrapidstartdrv.sys,0aafa9f47acf69d46c9542985994ff5321f00842a28df2396d4a3076776a83cb,-,RW-Everything,1.00.00.0000,1.00.00.0000 built by: WinDDK,RwDrv.sys,['ntoskrnl.exe', 'HAL.dll']
+0a2f2700-97b5-42b6-b121-38e5f03e9957,BS_RCIO.sys,TRUE,2023-01-09,-,bs_rcio.sys,-,-,-,-,-,-,-
+75a66604-f024-4f11-8ba7-fdd64a0df3bf,mhyprotnap.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+214654eb-90c4-48c8-a183-0157e50bf07f,MsIo64.sys,TRUE,2023-05-06,-,msio64.sys,-,-,-,-,-,-,-
+181b89e5-4bdd-4e95-b1bc-a294a4adfb29,mhyprotrpg.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,4cd80f4e33b713570f6a16b9f77679efa45a466737e41db45b41924e7d7caef4,-,Novell, Inc.,3.1.11,3.1.11.0,libnicm.sys,['ntoskrnl.exe']
+c8619f49-8e23-489b-9878-53d27533da15,pxitrig64.sys,TRUE,2024-09-11,-,pxitrig64.sys,-,-,-,-,-,-,-
+bd9f084e-b235-4978-bf2a-5f1dc02937df,TfSysMon.sys,FALSE,2024-08-15,-,tfsysmon.sys,-,-,-,-,-,-,-
+9454a752-233e-4ba2-b585-8da242bf8f31,Netfilter.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,49ef680510e3dac6979a20629d10f06822c78f45b9a62ec209b71827a526be94,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+2bea1bca-753c-4f09-bc9f-566ab0193f4a,gdrv.sys,TRUE,2023-01-09,-,gdrv.sys,ff6729518a380bf57f1bc6f1ec0aa7f3012e1618b8d9b0f31a61d299ee2b4339,-,GIGA-BYTE TECHNOLOGY CO., LTD.,17120101,1.0.0.1,gdrv.sys,['ntoskrnl.exe', 'HAL.dll']
+1d2cdef1-de44-4849-80e5-e2fa288df681,IQVW32.sys,TRUE,2023-01-09,-,iqvw64.sys,37c637a74bf20d7630281581a8fae124200920df11ad7cd68c14c26cc12c5ec9,-,Intel Corporation ,1.3.2.17,1.3.2.17 built by: WinDDK,iQVW64.SYS,['ntoskrnl.exe', 'HAL.dll']
+73290fcb-a0d7-481e-81a5-65a9859b50f5,pchunter.sys,TRUE,2023-07-22,-,,3f20ac5dac9171857fc5791865458fdb6eac4fab837d7eabc42cb0a83cb522fc,-,安芯网盾（北京）科技有限公司,1.0.5.7,1.0.0.5,,['FLTMGR.SYS', 'ntoskrnl.exe', 'HAL.dll']
+91ff1575-9ff2-46fd-8bfe-0bb3e3457b7f,inpoutx64.sys,TRUE,2023-01-09,-,inpoutx64.sys,-,-,-,-,-,-,-
+afb8bb46-1d13-407d-9866-1daa7c82ca63,echo_driver.sys,TRUE,2023-07-14,-,echodriver.sys,-,-,-,-,-,-,-
+97fa88f6-3819-4d56-a82c-52a492a9e2b5,inpout32.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+fa612342-5ae0-4e69-ad9c-14d574d9fb1e,dellbios.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+0258df5c-c3c1-4ed5-ba8f-846d91526ffe,AsrDrv10.sys,TRUE,2023-01-09,-,asrdrv10.sys,ece0a900ea089e730741499614c0917432246ceb5e11599ee3a1bb679e24fd2c,-,ASRock Incorporation,1.00.00.0000,1.00.00.0000 built by: WinDDK,AsrDrv.sys,['ntoskrnl.exe', 'HAL.dll']
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,ada4e42bf5ef58ef1aad94435441003b1cc1fcaa5d38bfdbe1a3d736dc451d47,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 1, 2,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,4e54e98df13110aac41f3207e400cce2a00df29ce18c32186e536c1de25a75ce,-,REALiX(tm),7.20,7.20 built by: WinDDK
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,6cf1cac0e97d30bb445b710fd8513879678a8b07be95d309cbf29e9b328ff259,-,Novell, Inc.,3.1.6,3.1.6.0,libnicm.sys,['ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio64.sys,-,-,-,-,-,-,-
+5943b267-64f3-40d4-8669-354f23dec122,Agent64.sys,TRUE,2023-01-09,-,agent64.sys,-,-,-,-,-,-,-
+204eccdf-99ca-4f2a-a325-8ebe34fd29a1,bwrs.sys,FALSE,2023-01-09,-,bwrs.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,1c425793a8ce87be916969d6d7e9dd0687b181565c3b483ce53ad1ec6fb72a17,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+aa687f89-4f3b-4b59-b64e-fee5e2ae2310,wantd_2.sys,TRUE,2023-02-28,-,wantd_2.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,c181ce9a57e8d763db89ba7c45702a8cf66ef1bb58e3f21874cf0265711f886b,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,7dfc2eb033d2e090540860b8853036f40736d02bd22099ff6cf665a90be659cd,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,653f6a65e0e608cae217bea2f90f05d8125cf23f83ba01a60de0f5659cfa5d4d,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,ad215185dc833c54d523350ef3dbc10b3357a88fc4dde00281d9af81ea0764d5,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,d7a61c671eab1dfaa62fe1088a85f6d52fb11f2f32a53822a49521ca2c16585e,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+ff74f03e-e4ce-4242-bfe3-60601056bb34,CorsairLLAccess64.sys,TRUE,2023-01-09,-,corsairllaccess64.sys,-,-,-,-,-,-,-
+5af9abf0-d8de-4e9b-8141-e9e97a31901a,AsrDrv102.sys,TRUE,2023-01-09,-,asrdrv102.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,-,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+cacf18a5-6d7d-4a63-92d4-bda386a3da18,bs_rcio64.sys,TRUE,2023-07-22,-,,73327429c505d8c5fd690a8ec019ed4fd5a726b607cabe71509111c7bfe9fc7e,,,,,,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,5a661e26cfe5d8dedf8c9644129039cfa40aebb448895187b96a8b7441d52aaa,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,rtcore64.sys,f1c8ca232789c2f11a511c8cd95a9f3830dd719cad5aa22cb7c3539ab8cb4dc3,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e299b0b6-e5e2-45b3-bf0b-c008068cebfa,BS_Flash64.sys,TRUE,2023-01-09,-,bs_flash64.sys,86a8e0aa29a5b52c84921188cc1f0eca9a7904dcfe09544602933d8377720219,-,,,,,['ntoskrnl.exe']
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,,2a4f4400402cdc475d39389645ca825bb0e775c3ecb7c527e30c5be44e24af7d,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,4eb1b9f3fe3c79f20c9cdeba92f6d6eb9b9ed15b546851e1f5338c0b7d36364b,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+080ff223-f8e0-49c0-a7b5-e97349cf81a0,HpPortIox64.sys,TRUE,2023-01-09,-,hpportiox64.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,d2e843d9729da9b19d6085edf69b90b057c890a74142f5202707057ee9c0b568,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+2ada18ae-2c52-49b6-b1a0-cf3b267f6dc7,sfdrvx32.sys,TRUE,2023-05-06,-,sfdrvx32.sys,-,-,-,-,-,-,-
+7a0842ca-1a64-4ad1-9d66-25eb983d1742,directio32_legacy.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+1d2cdef1-de44-4849-80e5-e2fa288df681,iqvw64e.sys,TRUE,2023-01-09,-,iqvw64.sys,37c637a74bf20d7630281581a8fae124200920df11ad7cd68c14c26cc12c5ec9,-,Intel Corporation ,1.3.2.17,1.3.2.17 built by: WinDDK,iQVW64.SYS,['ntoskrnl.exe', 'HAL.dll']
+e368efc7-cf69-47ae-8204-f69dac000b22,iobitunlocker.sys,TRUE,2023-07-22,-,iobitunlocker.sys,-,-,-,-,-,-,-
+495f0f36-c5e0-467d-8115-b5bdbe7ff686,driver_312c83a9.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,ec9bd7fb90c3a2aa4605bd73fe1f74399e2cda75fd4c5fff84660ad4f797c4fe,-,REALiX(tm),8.00,8.00 built by: WinDDK
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,238046cfe126a1f8ab96d8b62f6aa5ec97bab830e2bae5b1b6ab2d31894c79e4,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 3, 2,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+af153e7c-13fa-4a40-a095-00726ad6d783,driver_1a74c2bd.sys,TRUE,2024-09-10,-,,1a74c2bde0c9a76486657ccb9c79ea87c9891a32cdd4aa15c7542f7c9487a539,-,Pinchins Technology Co.,Ltd.,1.0,1.0.0.1006,RWTKrl.sys,['ntoskrnl.exe', 'HAL.dll', 'RWTBase.SYS']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,2e665962c827ce0adbd29fe6bcf09bbb1d7a7022075d162ff9b65d0af9794ac0,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,a855b6ec385b3369c547a3c54e88a013dd028865aba0f3f08be84cdcbaa9a0f6,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio64.sys,-,-,-,-,-,-,-
+c33648d7-6473-4e2b-92f6-93f195bc183f,nvflsh32.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+57354c82-ff9c-4a54-8377-d195e4ff0a26,mhyprot.sys,TRUE,2023-01-09,-,mhyprot.sys,-,-,-,-,-,-,-
+56cdac8e-d87d-49c8-b281-6e096c2390d1,gvcidrv64.sys,TRUE,2023-05-06,-,gvcidrv64.sys,-,-,-,-,-,-,-
+61abe019-08cb-48a3-89b2-62810696f277,NQrmq.sys,TRUE,2023-06-05,-,nqrmq.sys,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,202d9703a5b8d06c5f92d2c5218a93431aa55af389007826a9bfaaf900812213,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+52ded752-2708-499e-8f37-98e4a9adc23c,GLCKIO2.sys,TRUE,2023-05-06,-,glckio2.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,eba14a2b4cefd74edaf38d963775352dc3618977e30261aab52be682a76b536f,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+1ff757df-9a40-4f78-a28a-64830440abf7,winio64.sys,TRUE,2023-05-06,-,winio64.sys,-,-,-,-,-,-,-
+3fb743b8-d3ed-4873-9c95-e212720dde21,Lurker.sys,FALSE,2023-01-09,-,lurker.sys,-,-,-,-,-,-,-
+fded7e63-0470-40fe-97ed-aa83fd027bad,PDFWKRNL.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+90ecbbf7-b02f-424d-8b7d-56cc9e3b5873,eneio64.sys,TRUE,2023-05-06,-,eneio64.sys,38c18db050b0b2b07f657c03db1c9595febae0319c746c3eede677e21cd238b0,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+3bc629e8-7bf8-40c2-965b-87eb155e0065,mtcBSv64.sys,TRUE,2023-01-09,-,mtcbsv64.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,32882949ea084434a376451ff8364243a50485a3b4af2f2240bb5f20c164543d,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+fbdd993b-47b1-4448-8c41-24c310802398,rwdrv.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,5ab48bf8c099611b217cc9f78af2f92e9aaeedf1cea4c95d5dd562f51e9f0d09,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,b749566057dee0439f54b0d38935e5939b5cb011c46d7022530f748ebc63efe5,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,72b67b6b38f5e5447880447a55fead7f1de51ca37ae4a0c2b2f23a4cb7455f35,-,Novell, Inc.,3.1.12,3.1.12.0,libnicm.sys,['ntoskrnl.exe']
+e42cd285-4dda-4086-a696-93ab1d6f17ca,HOSTNT.sys,TRUE,2023-01-09,-,hostnt.sys,-,-,-,-,-,-,-
+a254e684-f6eb-40c4-a50a-7b76feb6cc02,utiA2D4.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+d4664202-d1b9-44d4-97cc-fee2150082db,nvflsh64.sys,TRUE,2023-01-09,-,nvflsh64.sys,-,-,-,-,-,-,-
+39742f99-2180-46d7-8538-56667c935cc3,viragt.sys,TRUE,2023-01-09,-,viragt.sys,e05eeb2b8c18ad2cb2d1038c043d770a0d51b96b748bc34be3e7fc6f3790ce53,,TG Soft S.a.s.,1, 72, 0, 0,1, 72, 0, 0,viragt.sys,['ntoskrnl.exe', 'HAL.dll']
+a5792a63-ba77-44ac-bd4a-134b24b01033,1.sys,FALSE,2023-01-09,-,1.sys,-,-,-,-,-,-,-
+73290fcb-a0d7-481e-81a5-65a9859b50f5,pchunter.sys,TRUE,2023-07-22,-,,3f20ac5dac9171857fc5791865458fdb6eac4fab837d7eabc42cb0a83cb522fc,,安芯网盾（北京）科技有限公司,1.0.5.7,1.0.0.5,,['FLTMGR.SYS', 'ntoskrnl.exe', 'HAL.dll']
+2d6c1da6-17e2-4385-ad93-1430f83bde83,4748696211bd56c2d93c21cab91e82a5.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+f7f88ef4-ada4-4210-a40d-9d84142ef0fb,7.sys,TRUE,2023-03-04,-,7.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO2.sys,TRUE,2023-01-09,-,asio2.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+4f47c65e-2e73-4855-813a-5a823ae845a8,tdeio64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+afb8bb46-1d13-407d-9866-1daa7c82ca63,echo_driver.sys,TRUE,2023-07-14,-,rentdrv2.sys,-,-,-,-,-,-,-
+51c342f3-0b91-4674-8f81-bc016855f30f,AsrDrv101.sys,TRUE,2023-01-09,-,asrdrv101.sys,-,-,-,-,-,-,-
+97ed6c7b-be4c-4f60-9157-c788a555ca9f,iscflashx64.sys,TRUE,2023-10-12,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO32.sys,TRUE,2023-01-09,-,asio32.sys,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,f77fe6b1e0e913ac109335a8fa2ac4961d35cbbd50729936059aba8700690a9e,-,Novell, Inc.,3.1.12,3.1.12.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,,d9500af86bf129d06b47bcfbc4b23fcc724cfbd2af58b03cdb13b26f8f50d65e,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+8697785a-d088-42a7-ac25-b5c8a3b22664,driver_d1ea9e16.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+7437388f-821e-421f-a3c1-62ce2c725a6a,windows8-10-32.sys,FALSE,2023-01-09,-,windows8-10-32.sys,-,-,-,-,-,-,-
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,82fbcb371d53b8a76a25fbbafaae31147c0d1f6b9f26b3ea45262c2267386989,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 0, 7,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+07c57c69-c8d7-40cf-8bcc-612671427044,tboflhelper.sys,TRUE,2024-09-11,-,tboflhelper.sys,aa20aa2316cd6d203146bd2bc5b7466ba7b83a8500654a688172bcafa82ab168,-,TeraByte, Inc.,1.00,1.00,tboflhelper.sys,['ntoskrnl.exe']
+868c6920-f6cb-4088-8277-095a1358abe1,GLCKIO2.sys,TRUE,2023-01-09,-,glckio2.sys,3a5ec83fe670e5e23aef3afa0a7241053f5b6be5e6ca01766d6b5f9177183c25,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio64.sys,074ae477c8c7ae76c6f2b0bf77ac17935a8e8ee51b52155d2821d93ab30f3761,-,Realtek                                            ,1.006.0118.2017,1.006.0118.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio.sys,caa85c44eb511377ea7426ff10df00a701c07ffb384eef8287636a4bca0b53ab,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,5ee292b605cd3751a24e5949aae615d472a3c72688632c3040dc311055b75a92,-,,,,,['ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio.sys,916c535957a3b8cbf3336b63b2260ea4055163a9e6b214f2a7005d6d36a4a677,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+5261cacf-380c-4573-85ff-a643cbdf009a,KApcHelper_x64.sys,TRUE,2023-05-06,-,kapchelper_x64.sys,-,-,-,-,-,-,-
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,76af3f9fa111d694e37058606f2636430bdd378c85b94f426fbfcd6666ebe6cc,-,REALiX(tm),6.70,6.70 built by: WinDDK
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio.sys,916c535957a3b8cbf3336b63b2260ea4055163a9e6b214f2a7005d6d36a4a677,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+b9e01a11-6395-4837-a202-0c777d717a43,rtcoremini64.sys,TRUE,2023-07-22,-,,bea8c6728d57d4b075f372ac82b8134ac8044fe13f533696a58e8864fa3efee3,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+2e1531b2-d370-4543-9e2e-5319a1c13c22,daxin_blank2.sys,TRUE,2023-02-28,-,daxin_blank2.sys,5c1585b1a1c956c7755429544f3596515dfdf928373620c51b0606a520c6245a,-,,,,,['ntoskrnl.exe', 'NDIS.SYS', 'ntoskrnl.exe', 'hal.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,854bc946b557ed78c7d40547eb39e293e83942a693c94d0e798d1c4fbde7efa9,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,4ac08a6035cfcafdac712d7c3cf2eef6e10258f14cee6e80e1ef2f71f5045173,-,REALiX(tm),7.90,7.90 built by: WinDDK
+77157886-00f9-4f6e-b217-d896813b630f,-,TRUE,2024-01-24,-,kavservice.bin,-,-,-,-,-
+b9b835bd-b720-424b-9160-2442bc4d6e58,Blackbone.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+cf805b21-4611-4983-a8b6-271373a45057,SBIOSIO64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO.sys,TRUE,2023-05-06,-,asupio.sys,bdcacee3695583a0ca38b9a786b9f7334bf2a9a3387e4069c8e6ca378b2791d0,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,,7462b7ae48ae9469474222d4df2f0c4f72cdef7f3a69a524d4fccc5ed0fd343f,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+dbb58de1-a1e5-4c7f-8fe0-4033502b1c63,asas.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO.sys,TRUE,2023-05-06,-,asupio.sys,b9a4e40a5d80fedd1037eaed958f9f9efed41eb01ada73d51b5dcd86e27e0cbf,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+b9e01a11-6395-4837-a202-0c777d717a43,rtcoremini64.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+d35cb48d-2aca-4d7d-a194-f4566183bcd9,TmComm.sys,TRUE,2023-05-06,-,tmcomm.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,-,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+c1ece07b-e92a-4050-95ee-90e03aa82120,NetProxyDriver.sys,FALSE,2023-01-09,-,netproxydriver.sys,-,-,-,-,-,-,-
+b745b5da-9cd6-4b3a-badf-fbe487497705,WINIODrv.sys,TRUE,2023-01-09,-,winiodrv.sys,-,-,-,-,-,-,-
+dbfcce10-76a3-44a4-a9b8-d7126152a235,driver_bfcbc010.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,asio.sys,TRUE,2023-01-09,-,asio3.sys,-,-,-,-,-,-,-
+b72f7335-6f27-42c5-85f5-ed7eb9016eac,AsrAutoChkUpdDrv.sys,TRUE,2023-01-09,-,asrautochkupddrv.sys,-,-,-,-,-,-,-
+cce291c8-4534-4362-af45-5f45cd32bd92,smep_namco.sys,TRUE,2023-01-09,-,smep_namco.sys,-,-,-,-,-,-,-
+3e0bf6dc-791b-4170-8c40-427e7299d93d,KfeCo10X64.sys,TRUE,2023-05-12,-,kfeco10x64.sys,-,-,-,-,-,-,-
+a8e999ee-746f-4788-9102-c1d3d2914f56,LgDCatcher.sys,TRUE,2023-01-09,-,lgdcatcher.sys,-,-,-,-,-,-,-
+31797996-6973-402d-a4a0-d01ce51e02c0,AsrIbDrv.sys,TRUE,2023-01-09,-,asribdrv.sys,2a652de6b680d5ad92376ad323021850dab2c653abf06edf26120f7714b8e08a,-,RW-Everything,1.00.00.0000,1.00.00.0000 built by: WinDDK,RwDrv.sys,['ntoskrnl.exe', 'HAL.dll']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3_64.sys,TRUE,2023-01-09,-,asio2.sys,-,-,-,-,-,-,-
+4c815256-2534-4476-b15d-7cbf24c80098,jokercontroller.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+86cff0de-2536-4b8d-a846-a7312c569597,nicm.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+204eccdf-99ca-4f2a-a325-8ebe34fd29a1,bwrs.sys,FALSE,2023-01-09,-,bwrs.sys,221dfbc74bbb255b0879360ccc71a74b756b2e0f16e9386b38a9ce9d4e2e34f9,-,,,,,-
+268e87ba-ad44-4f3c-986f-26712cac68da,Phymemx64.sys,TRUE,2023-01-09,-,phymemx64.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,c8ff7c9f510f7a2ed88d9b336d8c9339698d5e1ee14bfb91aa89703ec06dce42,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+0567c6c4-282f-406f-9369-7f876b899c25,-,TRUE,2023-05-06,-,procexp.sys,-,-,-,-,-
+c854b612-0b9f-4fc3-a7b8-a93bed7a291e,SSPORT.sys,TRUE,2023-04-15,-,ssport.sys,-,-,-,-,-,-,-
+080ff223-f8e0-49c0-a7b5-e97349cf81a0,HpPortIox64.sys,TRUE,2023-01-09,-,hpportiox64.sys,c5050a2017490fff7aa53c73755982b339ddb0fd7cef2cde32c81bc9834331c5,-,HP Inc.,1.2.0.9,1.2.0.9,HpPortIox64.sys,['ntoskrnl.exe', 'HAL.dll']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,-,-,-,-,-,-,-
+b45a3fdf-592a-4cd9-81e2-8fe03d554cad,windows7-32.sys,FALSE,2023-01-09,-,windows7-32.sys,-,-,-,-,-,-,-
+96c8fe71-3acc-41bc-9402-ebd69a961d74,phydmaccx64.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+f6c08b8a-1d25-4bf1-9d4f-5368c1f6cfe7,driver_c3d48ddd.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,0a9b608461d55815e99700607a52fbdb7d598f968126d38e10cc4293ac4b1ad8,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+6356d7d9-3b82-4731-9d5f-cc9bc37558fc,test2.sys,TRUE,2023-07-22,-,,6709a2d7925248fe172e9bc5495f45b9bb74060c43e1c58e671f0e6c434fd82b,-,,,,,['ntoskrnl.exe', 'WDFLDR.SYS']
+5969b6dc-b136-480e-a527-3cb2ea2f0da9,hw.sys,TRUE,2023-01-09,-,hw.sys,-,-,-,-,-,-,-
+e0e93453-1007-4799-ad02-9b461b7e0398,truesight.sys,TRUE,2023-11-10,-,truesight,-,-,-,-,-,-,-
+aaf8ce1a-e11b-4929-96e0-5ec0666cef2c,1fc7aeeff3ab19004d2e53eae8160ab1.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+b745b5da-9cd6-4b3a-badf-fbe487497705,WINIODrv.sys,TRUE,2023-01-09,-,winiodrv.sys,3243aab18e273a9b9c4280a57aecef278e10bfff19abb260d7a7820e41739099,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2bea1bca-753c-4f09-bc9f-566ab0193f4a,gdrv.sys,TRUE,2023-01-09,-,gdrv.sys,31f4cfb4c71da44120752721103a16512444c13c2ac2d857a7e6f13cb679b427,-,Windows (R) Server 2003 DDK provider,5.2.3790.1830,5.2.3790.1830 built by: WinDDK,gdrv.sys,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,-,-,-,-,-,-,-
+a8f2da2a-369c-4b4d-9a00-d7a892b9f7c3,wsdkd.sys,TRUE,2023-09-12,-,wsdkd.sys,-,-,-,-,-,-,-
+0eb5f4ce-12a7-4b45-b021-42b995de07c5,Air_SYSTEM10.sys,TRUE,2023-03-03,-,air_system10.sys,f461414a2596555cece5cfee65a3c22648db0082ca211f6238af8230e41b3212,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+b03798af-d25a-400b-9236-4643a802846f,RwDrv.sys,TRUE,2023-05-06,-,rwdrv.sys,-,-,-,-,-,-,-
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,5fe5a6f88fbbc85be9efe81204eee11dff1a683b426019d330b1276a3b5424f4,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+809e7c77-f0fa-46fb-862c-71969ae0c032,ktmutil7ODM.sys,TRUE,2023-07-12,-,,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,8bf01cd6d55502838853851703eb297ec71361fa9a0b088a30c2434f4d2bf9c6,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,asio.sys,TRUE,2023-01-09,-,asio2.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,d9a2bf0f5ba185170441f003dc46fbb570e1c9fdf2132ab7de28b87ba7ad1a0c,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+a261cd64-0d04-4bf5-ad73-f3bb96bf83cf,PCHunter.sys,FALSE,2023-01-09,-,pchunter.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,405472a8f9400a54bb29d03b436ccd58cfd6442fe686f6d2ed4f63f002854659,-,,,,,['ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,-,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2740a074-1e06-4f75-9c6a-dc57a3f85189,POORTRY1.sys,TRUE,2023-03-04,-,poortry1.sys,-,-,-,-,-,-,-
+f22e7230-5f32-4c4e-bc9d-9076ebf10baa,VBoxTAP.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+b745b5da-9cd6-4b3a-badf-fbe487497705,WINIODrv.sys,TRUE,2023-01-09,-,winiodrv.sys,7cfa5e10dff8a99a5d544b011f676bc383991274c693e21e3af40cf6982adb8c,,,,,,['ntoskrnl.exe', 'HAL.dll']
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,1a4f7d7926efc3e3488758ce318246ea78a061bde759ec6c906ff005dd8213e5,-,ASUSTek Computer Inc.,0.2.1.7,0.2.1.7,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,442c18aeb09556bb779b21185c4f7e152b892410429c123c86fc209a802bff3c,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,fded693528f7e6ac1af253e0bd2726607308fdaa904f1e7242ed44e1c0b29ae8,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,87e094214feb56a482cd8ae7ee7c7882b5a8dccce7947fdaa04a660fa19f41e5,-,Novell, Inc.,3.1.12,3.1.12.0,libnicm.sys,['ntoskrnl.exe']
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,-,-,-,-,-,-,-
+2aa003cd-5f36-46a6-ae3d-f5afc2c8baa3,mhyprot3.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+d2806397-9ceb-47c8-b5f3-3aabec182ff5,-,TRUE,2023-01-09,-,nchgbios2x64.sys,-,-,-,-,-
+8c2df58f-1e02-4911-ad40-3fa4ed1f4333,ef0e1725aaf0c6c972593f860531a2ea.sys,TRUE,2023-07-31,-,,f0474e76cfd36e37e32cfe5c0a9e05ddee17dd5014d7aa8817ea3634a3540a3f,-,,,,,['ntoskrnl.exe']
+18a842be-681a-4f32-97fd-57cb72ff5f3a,NlsLexicons0024UvN.sys,TRUE,2023-07-12,-,,-,-,-,-,-,-,-
+1c7631f0-f92f-4be5-8ba7-3eefb0601d45,LHA.sys,TRUE,2023-01-09,-,lha.sys,-,-,-,-,-,-,-
+cacf18a5-6d7d-4a63-92d4-bda386a3da18,bs_rcio64.sys,TRUE,2023-07-22,-,,73327429c505d8c5fd690a8ec019ed4fd5a726b607cabe71509111c7bfe9fc7e,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+f93e88c2-d0e8-4347-869f-efa568955e9d,WYProxy64.sys,FALSE,2023-01-09,-,wyproxy64.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3_64.sys,TRUE,2023-01-09,-,asio64.sys,-,-,-,-,-,-,-
+04eefdf4-448d-45bb-87fc-93f263fc77f4,driver_668c5bea.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+058fb356-e0ff-4f5e-8293-319feb005db2,bandai.sys,FALSE,2023-01-09,-,bandai.sys,-,-,-,-,-,-,-
+7edb5602-239f-460a-89d6-363ff1059765,viragt64.sys,TRUE,2023-05-06,-,viragt.sys,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,f27febff1be9e89e48a9128e2121c7754d15f8a5b2e88c50102cecee5fe60229,-,Novell, Inc.,3.1.11,3.1.11.0,libnicm.sys,['ntoskrnl.exe']
+2aa003cd-5f36-46a6-ae3d-f5afc2c8baa3,mhyprot3.sys,TRUE,2023-01-09,-,mhyprot3.sys,-,-,-,-,-,-,-
+1ab1ec8c-1231-4ba4-8804-4a2cda103bb8,gametersafe.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,4734a0a5d88f44a4939b8d812364cab6ca5f611b9b8ceebe27df6c1ed3a6d8a4,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+6d21df78-d718-44df-b722-99eec654f5b2,MsIo64.sys,TRUE,2023-01-09,-,msio64.sys,-,-,-,-,-,-,-
+b32d8d7d-0dc2-4d09-a306-8efc4caf1839,4118b86e490aed091b1a219dba45f332.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+d5118882-6cdd-4b06-8bf4-e9818f16137e,nt3.sys,FALSE,2023-01-09,-,nt3.sys,-,-,-,-,-,-,-
+0c0198a3-5c63-4a9b-abe9-88a810602329,2.sys,TRUE,2023-03-04,-,2.sys,-,-,-,-,-,-,-
+d9e9fab2-6b64-4c14-b1ec-7af1923c0773,AccelLid.sys,TRUE,2024-09-11,-,accellid.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,ab8f2217e59319b88080e052782e559a706fa4fb7b8b708f709ff3617124da89,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,41eeeb0472c7e9c3a7146a2133341cd74dd3f8b5064c9dee2c70e5daa060954f,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+07c57c69-c8d7-40cf-8bcc-612671427044,tboflhelper.sys,TRUE,2024-09-11,-,tboflhelper.sys,-,-,-,-,-,-,-
+17cf4fac-88f1-467d-9f62-481d33accc5b,otipcibus.sys,FALSE,2023-01-09,-,otipcibus.sys,-,-,-,-,-,-,-
+22aa985b-5fdb-4e38-9382-a496220c27ec,TmComm.sys,TRUE,2023-01-09,-,tmcomm.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO64.sys,TRUE,2023-05-06,-,asupio.sys,b9a4e40a5d80fedd1037eaed958f9f9efed41eb01ada73d51b5dcd86e27e0cbf,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+d9f2c3d6-160c-4eb3-8547-894fcf810342,driver7-x86-withoutdbg.sys,TRUE,2023-01-09,-,driver7-x86-withoutdbg.sys,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,iqvw64e.sys,TRUE,2023-01-09,-,iqvw64.sys,-,-,-,-,-,-,-
+34fa6ba4-dc7c-4fd6-b947-8a0bb8ebd031,amifldrv.sys,TRUE,2023-01-09,-,amifldrv.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,dd2c1aa4e14c825f3715891bfa2b6264650a794f366d5f73ed1ef1d79ff0dbf9,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+043773c5-120a-4c6b-8485-8f1f5c47fd3e,avgArPot.sys,TRUE,2023-05-06,-,aswarpot.sys,-,-,-,-,-,-,-
+39742f99-2180-46d7-8538-56667c935cc3,viragt.sys,TRUE,2023-01-09,-,viragt.sys,e05eeb2b8c18ad2cb2d1038c043d770a0d51b96b748bc34be3e7fc6f3790ce53,-,TG Soft S.a.s.,1, 72, 0, 0,1, 72, 0, 0,viragt.sys,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,5da0ffe33987f8d5fb9c151f0eff29b99f42233b27efcad596add27bdc5c88ff,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,rtcore64.sys,-,-,-,-,-,-,-
+c3cca618-5a7f-4a51-8785-cb328fbfb0df,viraglt64.sys,TRUE,2023-01-09,-,viraglt64.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,a0e583bd88eb198558442f69a8bbfc96f4c5c297befea295138cfd2070f745c5,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+8ecc8439-0554-40d0-9130-c02941deadbe,rtport.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+2cfede23-67f4-4af7-830f-c95ba30a43ae,WinIo64A.sys,FALSE,2023-01-09,-,winio64a.sys,-,-,-,-,-,-,-
+7a5fe570-3b35-4fad-b7d6-7518bd5436a0,NodeDriver.sys,TRUE,2023-03-02,-,nodedriver.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,4ed2d2c1b00e87b926fb58b4ea43d2db35e5912975f4400aa7bd9f8c239d08b7,,Realtek                                            ,1.009.0709.2020,1.009.0709.2020 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+1d2cdef1-de44-4849-80e5-e2fa288df681,IQVW32.sys,TRUE,2023-01-09,-,iqvw64e.sys,4429f32db1cc70567919d7d47b844a91cf1329a6cd116f582305f3b7b60cd60b,-,Intel Corporation ,1.03.0.7,1.03.0.7 built by: WinDDK,iQVW64.SYS,['ntoskrnl.exe', 'HAL.dll']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,76b86543ce05540048f954fed37bdda66360c4a3ddb8328213d5aef7a960c184,-,,,,,['ntoskrnl.exe']
+d3111e83-52eb-4a8c-817d-761ea72d37e2,fgme.sys,FALSE,2023-06-05,-,fgme.sys,-,-,-,-,-,-,-
+34fa6ba4-dc7c-4fd6-b947-8a0bb8ebd031,amifldrv64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+3a9ea9a6-e5e3-439a-b892-1f78dd990099,seasunprotect.sys,seasunprotect.sys,507b07b0dc0e638b65b4a4d11a462b35439c746d42337b9888927bf994176102,fdf15402013191f701086e188d88041481f1562aa43e4ca8a21f4d489e791a36,cec1afd0e310c55c1dcc601ab8e172917706aa32fb5eaf826813547fdf02dd46
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,-,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+3277cecc-f4b4-4a00-be01-9da83e013bcd,wantd_5.sys,TRUE,2023-02-28,-,wantd_5.sys,-,-,-,-,-,-,-
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,f85eb576acb5db0d2f48e5f09a7244165a876fa1ca8697ebb773e4d7071d4439,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 0, 4,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+69b924ab-2e4a-4eae-8091-4151c238136e,b1.sys,FALSE,2023-01-09,-,b1.sys,-,-,-,-,-,-,-
+618fbf89-f4e3-4b2a-a4b4-cc4bf7c180e0,POORTRY2.sys,TRUE,2023-03-04,-,poortry2.sys,9bb09752cf3a464455422909edef518ac18fe63cf5e1e8d9d6c2e68db62e0c87,-,,,,,['ntoskrnl.exe', 'FLTMGR.SYS']
+30d6c39c-1d93-4101-8dd3-322ff0ab7fb3,NetFlt.sys,FALSE,2023-01-09,-,netflt.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,b1334a71cc73b3d0c54f62d8011bec330dfc355a239bf94a121f6e4c86a30a2e,-,,,,,['ntoskrnl.exe']
+34fa6ba4-dc7c-4fd6-b947-8a0bb8ebd031,amifldrv.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+babe348d-f160-41ec-9db9-2413b989c1f0,VBoxUSBMon.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO.sys,TRUE,2023-05-06,-,asupio64.sys,-,-,-,-,-,-,-
+5fb86651-c152-404a-9a2f-0f54b0d2bb55,driver_77225a99.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+de003542-80e1-4aa0-9b99-ed8647a93a6e,cpuz_x64.sys,TRUE,2023-01-09,-,cpuz_x64.sys,-,-,-,-,-,-,-
+cacf18a5-6d7d-4a63-92d4-bda386a3da18,bs_rcio64.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+5f70bde4-9f81-44a8-9d3e-c6c7cf65bfae,PanIO.sys,FALSE,2023-01-09,-,panio.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO2.sys,TRUE,2023-01-09,-,asio.sys,-,-,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,4ba224af60a50cad10d0091c89134c72fc021da8d34a6f25c4827184dc6ca5c7,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+9889da50-3908-4499-a729-187295a60a0e,asrdrv104.sys,FALSE,2023-01-09,-,asrdrv104.sys,-,-,-,-,-,-,-
+61abe019-08cb-48a3-89b2-62810696f277,NQrmq.sys,TRUE,2023-06-05,-,nqrmq.sys,ad938d15ecfd70083c474e1642a88b078c3cea02cdbddf66d4fb1c01b9b29d9a,-,,,,,['ntoskrnl.exe']
+18a842be-681a-4f32-97fd-57cb72ff5f3a,NlsLexicons0024UvN.sys,TRUE,2023-07-12,-,,7a84703552ae032a0d1699a081e422ed6c958bbe56d5b41839c8bfa6395bee1d,-,,,,,['fwpkclnt.sys', 'ntoskrnl.exe', 'WDFLDR.SYS']
+4f0a65a7-9a01-40cb-8d95-0844515103e6,avalueio.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+127cde1d-905e-4c67-a2c3-04ea4deaea7d,wantd_6.sys,TRUE,2023-02-28,-,wantd_6.sys,e7af7bcb86bd6bab1835f610671c3921441965a839673ac34444cf0ce7b2164e,-,Microsoft Corporation,6.1.7600.1172,6.1.7600.1172,wantd.sys,['ntoskrnl.exe', 'NDIS.SYS']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,5351c81b4ec5a0d79c39d24bac7600d10eac30c13546fde43d23636b3f421e7c,-,Micro Focus,3.1.12,3.1.12.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+56b320b3-5b12-4ec6-81e2-5a16c56c7478,spf.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+3d1439e9-9a7d-497a-8c6c-74513f825d6a,daxin_blank6.sys,TRUE,2023-02-28,-,daxin_blank6.sys,-,-,-,-,-,-,-
+1106fe7a-b78b-4edf-85c0-6208979f380b,driver_981d03e1.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+72637cb1-5ca2-4ad0-a5df-20da17b231b5,wantd_4.sys,TRUE,2023-02-28,-,wantd_4.sys,-,-,-,-,-,-,-
+043773c5-120a-4c6b-8485-8f1f5c47fd3e,aswArPot.sys,TRUE,2023-05-06,-,aswarpot.sys,-,-,-,-,-,-,-
+57fc510a-e649-4599-b83e-8f3605e3d1d9,aswArPot.sys,TRUE,2023-01-09,-,aswarpot.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,a56c2a2425eb3a4260cc7fc5c8d7bed7a3b4cd2af256185f24471c668853aee8,-,,,,,['ntoskrnl.exe']
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,55a1535e173c998fbbc978009b02d36ca0c737340d84ac2a8da73dfc2f450ef9,-,ASUSTek Computer Inc.,0.2.1.6,0.2.1.6,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,asio.sys,TRUE,2023-01-09,-,asio64.sys,-,-,-,-,-,-,-
+48aeea9b-7812-4b25-9835-baaebe7dc551,ADRMDRVSYS.sys,TRUE,2024-09-11,-,adrmdrvsys.sys,-,-,-,-,-,-,-
+5938df1d-9513-449f-8252-c442ddca0c2a,-,TRUE,2023-05-06,-,vboxusb.sys,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,50819a1add4c81c0d53203592d6803f022443440935ff8260ff3b6d5253c0c76,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe', 'ntoskrnl.exe', 'HAL.dll']
+f93e88c2-d0e8-4347-869f-efa568955e9d,WYProxy64.sys,FALSE,2023-01-09,-,wyproxy32.sys,-,-,-,-,-,-,-
+7ce8fb06-46eb-4f4f-90d5-5518a6561f15,superman.sys,TRUE,2023-05-22,-,gmer64.sys,-,-,-,-,-,-,-
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,31d8fc6f5fb837d5eb29db828d13ba8ee11867d86a90b2c2483a578e1d0ec43a,-,,0, 2, 1, 2,0, 2, 1, 2,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,c64d4ac416363c7a1aa828929544d1c1d78cf032b39769943b851cfc4c0faafc,-,ASUSTek Computer Inc.,0.2.1.6,0.2.1.6,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+32155681-33e8-4d0d-b9f6-c822851e7321,RtsPer.sys,TRUE,2024-09-10,-,,a1fa7d8275ccd14a6adc438ef4b950e7de4ed26fcbe4b3e184243663b03c83d6,-,Realtek Semiconductor Corporation,10.0.10011.16384,10.0.26100.21373,RTSPER.SYS,['cng.sys', 'ntoskrnl.exe', 'HAL.dll']
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,6661320f779337b95bbbe1943ee64afb2101c92f92f3d1571c1bf4201c38c724,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+6fe10a55-7fb8-4a9d-9ebc-1b27b6e5b833,prokiller64.sys,TRUE,2023-05-07,-,prokiller64.sys,-,-,-,-,-,-,-
+05d7cfea-1fb9-4559-8837-d97b713254fe,4.sys,TRUE,2023-03-04,-,4.sys,-,-,-,-,-,-,-
+90e8600a-9b5c-4153-bb06-1d8fbe0ef232,nstr.sys,FALSE,2023-01-09,-,nstr.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3_64.sys,TRUE,2023-01-09,-,asio3_64.sys,-,-,-,-,-,-,-
+13637210-2e1c-45a4-9f76-fe38c3c34264,HpPortIox64.sys,TRUE,2023-05-06,-,hpportiox64.sys,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zamguard32.sys,TRUE,2023-01-09,-,zam64.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3_64.sys,TRUE,2023-01-09,-,asio32.sys,-,-,-,-,-,-,-
+9543c507-9b10-4de8-89b9-42a4f24c99ec,FPCIE2COM.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO64.sys,TRUE,2023-05-06,-,asupio.sys,8f23313adb35782adb0ba97fefbfbb8bbc5fc40ae272e07f6d4629a5305a3fa2,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,7c830ed39c9de8fe711632bf44846615f84b10db383f47b7d7c9db29a2bd829a,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+ddefecdd-9410-46d9-8957-e23aac1aba0c,c94f405c5929cfcccc8ad00b42c95083.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,-,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3.sys,TRUE,2023-01-09,-,asio3.sys,-,-,-,-,-,-,-
+b72f7335-6f27-42c5-85f5-ed7eb9016eac,AsrAutoChkUpdDrv.sys,TRUE,2023-01-09,-,asrautochkupddrv.sys,2aa1b08f47fbb1e2bd2e4a492f5d616968e703e1359a921f62b38b8e4662f0c4,-,ASRock Incorporation,1.00.00.0000,1.00.00.0000 built by: WinDDK,AsrAutoChkUpdDrv.sys,['ntoskrnl.exe', 'HAL.dll']
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,c8eaa5e6d3230b93c126d2d58e32409e4aeeb23ccf0dd047a17f1ef552f92fe9,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 0, 1,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+dc3fdbd3-601a-4d2a-bf34-d2e84c6ff1d3,stdcdrvws64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+ac62e709-4aa5-41f4-87b1-b811283d70d1,a9df5964635ef8bd567ae487c3d214c4.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,ecfc52a22e4a41bf53865b0e28309411c60af34a44e31a5c53cdc8c5733e8282,-,ASUSTek Computer Inc.,0.2.1.7,0.2.1.7,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+e4098d7e-78b3-4da1-96cb-68b27f245e02,HwOs2Ec7x64.sys,TRUE,2023-01-09,-,hwos2ec7x64.sys,-,-,-,-,-,-,-
+a2c3f6e9-25a5-4b75-8c6b-ad2d4e155822,directio.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO2.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio.sys,-,-,-,-,-,-,-
+f93e88c2-d0e8-4347-869f-efa568955e9d,WYProxy32.sys,FALSE,2023-01-09,-,wyproxy64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,1c8dfa14888bb58848b4792fb1d8a921976a9463be8334cff45cc96f1276049a,-,,,,,['ntoskrnl.exe']
+8c2df58f-1e02-4911-ad40-3fa4ed1f4333,ef0e1725aaf0c6c972593f860531a2ea.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+2bea1bca-753c-4f09-bc9f-566ab0193f4a,gdrv.sys,TRUE,2023-01-09,-,gdrv.sys,-,-,-,-,-,-,-
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,fb6b0d304433bf88cc7d57728683dbb4b9833459dc33528918ead09b3907ff22,-,ASUSTek Computer Inc.,0.2.2.3,0.2.2.3,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,a10b4ed33a13c08804da8b46fd1b7bd653a6f2bb65668e82086de1940c5bb5d1,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+7bb5ff05-25f8-410d-ae99-c8e8f082d24f,WinRing0.sys,TRUE,2023-01-09,-,winring0.sys,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,iqvw64e.sys,TRUE,2023-01-09,-,iqvw64e.sys,4429f32db1cc70567919d7d47b844a91cf1329a6cd116f582305f3b7b60cd60b,-,Intel Corporation ,1.03.0.7,1.03.0.7 built by: WinDDK,iQVW64.SYS,['ntoskrnl.exe', 'HAL.dll']
+f4c22f4d-eff8-40c5-8b31-146abe5f17b7,physmem.sys,TRUE,2023-01-09,-,physmem.sys,-,-,,,,,-
+d7773616-9860-4768-b6a2-d74f32c23b4e,driver_1afc1d06.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+6736cbe7-33ea-4488-b464-231c0b8d1049,gpcidrv64.sys,TRUE,2023-10-12,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,ab8f2217e59319b88080e052782e559a706fa4fb7b8b708f709ff3617124da89,-,Realtek                                            ,1.009.0709.2020,1.009.0709.2020,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+6356d7d9-3b82-4731-9d5f-cc9bc37558fc,test2.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+b745b5da-9cd6-4b3a-badf-fbe487497705,WINIODrv.sys,TRUE,2023-01-09,-,winiodrv.sys,3243aab18e273a9b9c4280a57aecef278e10bfff19abb260d7a7820e41739099,,,,,,['ntoskrnl.exe', 'HAL.dll']
+0d6f1b0f-b94d-4254-b3bb-49de61246260,GPU-Z.sys,TRUE,2024-06-20,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO32.sys,TRUE,2023-01-09,-,asio2.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,bedaisy.sys,2b120de80a5462f8395cfb7153c86dfd44f29f0776ea156ec4a34fa64e5c4797,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+a8e999ee-746f-4788-9102-c1d3d2914f56,LgDCatcher.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+66813e1f-13c8-4884-931a-62b46350c345,834761775.sys,TRUE,2023-07-12,-,834761775.sys,-,-,-,-,-,-,-
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,6701433861742c08eb50f1e785962378143ad5b6c374ac29118168599f8a0f1c,-,REALiX(tm),8.30,8.30 built by: WinDDK
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+412f4aaf-5525-458c-b87e-311e504b856d,mJj0ge.sys,TRUE,2023-05-07,-,mjj0ge.sys,5f6fec8f7890d032461b127332759c88a1b7360aa10c6bd38482572f59d2ba8b,-,,,,,['ntoskrnl.exe', 'ntoskrnl.exe', 'HAL.dll']
+bb808089-5857-4df2-8998-753a7106cb44,DBUtilDrv2.sys,TRUE,2023-01-09,-,dbutildrv2.sys,2e6b339597a89e875f175023ed952aaac64e9d20d457bbc07acf1586e7fe2df8,-,,,,,['ntoskrnl.exe', 'WppRecorder.sys', 'WDFLDR.SYS']
+0567c6c4-282f-406f-9369-7f876b899c25,-,TRUE,2023-05-06,-,procexp152.sys,-,-,-,-,-
+c0634ed7-840e-4a7e-8b34-33efe50405c2,TPwSav.sys,TRUE,2025-01-31,-,tpwsav.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,-,-,-,-,-,-,-
+a7628504-9e35-4e42-91f7-0c0a512549f4,SANDRA.sys,TRUE,2023-05-06,-,sandra,-,-,-,-,-,-,-
+2b918b1a-badb-4a85-9214-961607b21219,phymem_ext64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+f8bddc8b-49b9-41f7-a877-d15ec3f174f9,daxin_blank4.sys,TRUE,2023-02-28,-,daxin_blank4.sys,-,-,-,-,-,-,-
+3f39af20-802a-4909-a5de-7f6fe7aab350,AsrOmgDrv.sys,TRUE,2023-01-09,-,asromgdrv.sys,950a4c0c772021cee26011a92194f0e58d61588f77f2873aa0599dff52a160c9,-,ASRock Incorporation,1.00.00.0000,1.00.00.0000 built by: WinDDK,AsrDrv.sys,['ntoskrnl.exe', 'HAL.dll']
+b745b5da-9cd6-4b3a-badf-fbe487497705,WINIODrv.sys,TRUE,2023-01-09,-,winiodrv.sys,7cfa5e10dff8a99a5d544b011f676bc383991274c693e21e3af40cf6982adb8c,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+5d3f0b7d-7413-48e6-8d9c-7fc0bb5a66ee,Proxy64.sys,FALSE,2023-01-09,-,proxy64.sys,-,-,-,-,-,-,-
+b8339454-0e84-4a5b-92d0-6a626ced6677,ngiodriver.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+99668140-a8f6-48f8-86d1-cf3bf693600c,ProtectS.sys,TRUE,2023-01-09,-,protects.sys,-,-,-,-,-,-,-
+1d2cdef1-de44-4849-80e5-e2fa288df681,IQVW32.sys,TRUE,2023-01-09,-,iqvw64.sys,-,-,-,-,-,-,-
+2e4fedb0-30ed-400d-b4e1-b2b2004c1607,OpenLibSys.sys,TRUE,2023-01-09,-,openlibsys.sys,-,-,-,-,-,-,-
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,7125c9831a52d89d3d59fb28043b67fbe0068d69732da006fabb95550d1fa730,-,REALiX(tm),8.50,8.50 built by: WinDDK
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+f3215c19-8053-458c-81a5-90a74c5d2e6d,CITMDRV_AMD64.sys,TRUE,2023-01-09,-,citmdrv_amd64.sys,-,-,-,-,-,-,-
+f8bddc8b-49b9-41f7-a877-d15ec3f174f9,daxin_blank4.sys,TRUE,2023-02-28,-,daxin_blank4.sys,8dafe5f3d0527b66f6857559e3c81872699003e0f2ffda9202a1b5e29db2002e,-,,,,,['NTOSKRNL.EXE', 'HAL.DLL', 'ntoskrnl.exe', 'NDIS.SYS']
+64f3d4b0-6d2b-4275-b3d4-15d092af4092,fiddrv64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zamguard32.sys,TRUE,2023-01-09,-,zamguard32.sys,-,-,-,-,-,-,-
+c2e70ee6-2f13-4d43-ad5a-c2bf033cc457,d4.sys,FALSE,2023-01-09,-,d4.sys,-,-,-,-,-,-,-
+3bec7340-bd8b-43ae-8569-d81a66f01dda,ene.sys,TRUE,2023-05-06,-,ene.sys,-,-,-,-,-,-,-
+31a962ce-43ef-410f-873a-7ccc8f00332b,t3.sys,FALSE,2023-01-09,-,t3.sys,-,-,-,-,-,-,-
+76b5dfae-b384-45ce-8646-b2eec6b76a1e,KfeCo11X64.sys,TRUE,2023-05-12,-,kfeco11x64.sys,9a91d6e83b8fdec536580f6617f10dfc64eedf14ead29a6a644eb154426622ba,-,Rivet Networks, LLC.,9.8.4.59,9.8.4.59,KfeCoDrv.sys,['ntoskrnl.exe', 'NDIS.SYS', 'fwpkclnt.sys', 'WDFLDR.SYS']
+cf49f43c-d7b4-4c1a-a40d-1be36ea64bff,SysDrv3S.sys,TRUE,2023-05-22,-,sysdrv3s.sys,-,-,-,-,-,-,-
+f5c1a46f-21e6-4b06-b212-2dc55b699497,driver_290bc782.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+af8ef3c0-8686-4112-992b-86587a4a9060,driver_82d928c5.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+a4795ab6-d908-44cf-9ebf-a47db367d385,WiRwaDrv.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+137daca4-0d7b-48aa-8574-f7eb6ad02526,speedfan.sys,TRUE,2023-01-09,-,speedfan.sys,-,-,-,-,-,-,-
+aaa92ef1-5728-4e15-9fca-b054b02f0fb0,piddrv64.sys,TRUE,2023-01-09,-,piddrv64.sys,-,-,-,-,-,-,-
+2a7a59c1-35b8-42b6-a560-2fbf4247a584,-,TRUE,2023-11-02,-,,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,asio.sys,TRUE,2023-01-09,-,asio.sys,-,-,-,-,-,-,-
+bf01915d-045f-442c-a74e-25c56182123f,BSMI.sys,TRUE,2023-01-09,-,bsmi.sys,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3.sys,TRUE,2023-01-09,-,asio2.sys,-,-,-,-,-,-,-
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,superbmc.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,86047bb1969d1db455493955fd450d18c62a3f36294d0a6c3732c88dfbcc4f62,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3.sys,TRUE,2023-01-09,-,asio3_64.sys,-,-,-,-,-,-,-
+84ccb68d-ce34-4aa2-98d5-7f473c2e1b07,SysInfo.sys,TRUE,2023-01-09,-,sysinfo.sys,-,-,-,-,-,-,-
+ddca6daf-4932-4e82-ad3c-d92d47632ea4,6771b13a53b9c7449d4891e427735ea2.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,asio.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+a9ab4412-d484-459b-be97-5975f5ab8094,be6318413160e589080df02bb3ca6e6a.sys,TRUE,2023-07-31,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio.sys,-,-,-,-,-,-,-
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,,a6f8aa3de5b4aea58eddd45807d722c864d4bc4a38ad573174af864e21f0d526,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+5961e133-ccc3-4530-8f4f-5d975c41028d,LgDataCatcher.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,5de78cf5f0b1b09e7145db84e91a2223c3ed4d83cceb3ef073c068cf88b9d444,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio64.sys,-,-,-,-,-,-,-
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,,97363f377aaf3c01641ac04a15714acbec978afb1219ac8f22c7e5df7f2b2d56,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+7b893f79-b5b0-4373-9d29-c53a21fe6fc3,WinFlash64.sys,TRUE,2023-05-06,-,winflash64.sys,-,-,-,-,-,-,-
+e71f0866-e317-44d4-a456-d6f0c555aa73,nt6.sys,FALSE,2023-01-09,-,nt6.sys,-,-,-,-,-,-,-
+b7ec29c6-e151-4a9f-a293-e61f04ee6489,My.sys,FALSE,2023-01-09,-,my.sys,-,-,-,-,-,-,-
+9bf033e4-7295-4b63-8772-638b76851741,-,TRUE,2023-11-02,-,,-,-,-,-,-
+c7f76931-e24c-4d94-9e1f-5a083da581b4,fd3b7234419fafc9bdd533f48896ed73_b816c5cd.sys,TRUE,2023-07-25,-,,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,,53810ca98e07a567bb082628d95d796f14c218762cbbaa79704740284dccda4b,-,Novell, Inc.,3.1.6,3.1.6.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+87752fb8-e9f6-4235-91e2-c4343677d817,mimidrv.sys,TRUE,2023-05-22,-,,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,0e10d3c73596e359462dc6bfcb886768486ff59e158f0f872d23c5e9a2f7c168,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+b759adfa-b353-4ca3-9dfb-8fadf7a437eb,spwizimgVT.sys,TRUE,2023-07-12,-,,-,-,-,-,-,-,-
+1d4f7a3a-786b-4a74-b34f-14d44343de9e,nt4.sys,FALSE,2023-01-09,-,nt4.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio.sys,-,-,-,-,-,-,-
+39742f99-2180-46d7-8538-56667c935cc3,viragt.sys,TRUE,2023-01-09,-,,a2096b460e31451659b0dde752264c362f47254c8191930bc921ff16a4311641,-,TG Soft S.a.s.,1, 0, 0, 5,1, 0, 0, 5,viragt64.sys,['ntoskrnl.exe', 'HAL.dll']
+1055625b-3480-48b3-9556-8628a745d8f0,phydmaccx86.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+e1c29414-5b5b-44f4-84cc-e6f55d9a23c6,driver_85ca0dcd.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+8081b0d0-e18e-474a-bdfa-8ff1956d90cb,driver_0ffb4081.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,-,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+e7c958da-fd5d-40d6-975e-582c6fee7f69,BS_RCIO64.sys,TRUE,2023-01-09,-,bs_rcio64.sys,-,-,-,-,-,-,-
+a1d35b93-e97f-4ddd-a465-2405e804e754,windows-xp-64.sys,FALSE,2023-01-09,-,windows-xp-64.sys,-,-,-,-,-,-,-
+722772ee-a461-48ec-933d-f3df1578963e,BlackBoneDrv10.sys,FALSE,2023-01-09,-,blackbonedrv10.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,139f8412a7c6fdc43dcfbbcdba256ee55654eb36a40f338249d5162a1f69b988,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+adfb015a-f453-4b9e-a247-50f146209eb0,b3.sys,FALSE,2023-01-09,-,b3.sys,-,-,-,-,-,-,-
+f4c22f4d-eff8-40c5-8b31-146abe5f17b7,physmem.sys,TRUE,2023-01-09,-,physmem.sys,-,-,-,-,-,-,-
+be4843ef-a2a8-4a0d-91c6-42e165800bb0,TestBone.sys,FALSE,2023-01-09,-,testbone.sys,-,-,-,-,-,-,-
+ba91bce3-2cf9-4c44-bbd8-1170a44d23db,filnk.sys,TRUE,2024-06-20,-,,-,-,-,-,-,-,-
+58509acb-50b4-41a0-9de3-76c571a459e3,msio32.sys,TRUE,2023-07-22,-,,c7d4943ddac34e1a38692c624d799e634ad4c4e3ae7e3bb2ae4cf0d8eb8985bc,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+7abc873d-9c28-44c2-8f60-701a8e26af29,mhyprotect.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,-,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO3.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+4f93e19c-4600-4e2e-943f-a986875fd7d2,ni.sys,FALSE,2023-01-09,-,ni.sys,-,-,-,-,-,-,-
+e368efc7-cf69-47ae-8204-f69dac000b22,iobitunlocker.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+34fa6ba4-dc7c-4fd6-b947-8a0bb8ebd031,amifldrv.sys,TRUE,2023-01-09,-,amifldrv64.sys,-,-,-,-,-,-,-
+fe2f68e1-e459-4802-9a9a-23bb3c2fd331,kEvP64.sys,TRUE,2023-01-09,-,,7c0f77d103015fc29379ba75d133dc3450d557b0ba1f7495c6b43447abdae230,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+193df066-c27c-4343-a4eb-ad2ac417a4cc,nt5.sys,FALSE,2023-01-09,-,nt5.sys,fd33fb2735cc5ef466a54807d3436622407287e325276fcd3ed1290c98bd0533,-,,,,,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,f9bc6b2d5822c5b3a7b1023adceb25b47b41e664347860be4603ee81b644590e,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+8d97bb7f-e009-4dc7-ab9d-fde293e679dc,AsUpIO.sys,TRUE,2023-05-06,-,asupio64.sys,b4d47ea790920a4531e3df5a4b4b0721b7fea6b49a35679f0652f1e590422602,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,5cfad3d473961763306d72c12bd5ae14183a1a5778325c9acacca764b79ca185,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 1, 1,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+0f749d4e-145e-4b8e-bea6-47003d228043,ecsiodriverx64.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+14556074-b235-4378-b356-f58721629d72,mimikatz.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,54841d9f89e195196e65aa881834804fe3678f1cf6b328cab8703edd15e3ec57,-,,,,,['ntoskrnl.exe']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,c35f3a9da8e81e75642af20103240618b641d39724f9df438bf0f361122876b0,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+85335187-dae0-4f06-acea-209efaf74973,driver_4fc254af.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+3a9ea9a6-e5e3-439a-b892-1f78dd990099,SeasunProtect.sys,TRUE,2024-09-11,-,seasunprotect.sys,507b07b0dc0e638b65b4a4d11a462b35439c746d42337b9888927bf994176102,,Chengdu Westhouse Interactive Entertainment Ltd.,1.2.6.1,1.2.6.1,SeasunProtect.sys,['ksecdd.sys', 'ntoskrnl.exe']
+404f6db5-6be8-44a9-9898-badd56f96721,c.sys,FALSE,2023-01-09,-,c.sys,-,-,-,-,-,-,-
+19897aed-9be8-4111-a7d8-35618b9d75b3,smep_capcom.sys,TRUE,2023-01-09,-,smep_capcom.sys,-,-,-,-,-,-,-
+a0fbd397-64d5-4af2-844b-b096e08a1866,libnicm.sys,TRUE,2023-05-06,-,libnicm.sys,-,-,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,22e125c284a55eb730f03ec27b87ab84cf897f9d046b91c76bea2b5809fd51c5,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+275c80c5-a67c-4536-b29e-4e481242cb01,RTCore64.sys,TRUE,2023-05-06,-,rtcore64.sys,-,-,-,-,-,-,-
+e5f12b82-8d07-474e-9587-8c7b3714d60c,zamguard64.sys,TRUE,2023-01-09,-,zamguard32.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,rtkio.sys,478917514be37b32d5ccf76e4009f6f952f39f5553953544f1b0688befd95e82,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+fdf4f85b-47f4-4c98-a0d5-a6583463f565,vmdrv.sys,TRUE,2023-01-09,-,vmdrv.sys,-,-,-,-,-,-,-
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,libnicm.sys,-,-,-,-,-,-,-
+a66d0413-cc82-4f1e-bcf1-0dcf9d79f6c0,BS_HWMIO64_W10.sys,TRUE,2023-01-09,-,bs_hwmio64_w10.sys,-,-,-,-,-,-,-
+9c4e2e75-a8be-4d2f-b016-e2a98281c8ec,bs_hwmio64.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,32e1a8513eee746d17eb5402fb9d8ff9507fb6e1238e7ff06f7a5c50ff3df993,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow10x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,3e1f592533625bf794e0184485a4407782018718ae797103f9e968ff6f0973a1,,Realtek                                            ,1.005.0825.2016,1.005.0825.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+70fa8606-c147-4c40-8b7a-980290075327,-,TRUE,2023-07-22,-,,-,-,-,-,-
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,0bd164da36bd637bb76ca66602d732af912bd9299cb3d520d26db528cb54826d,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,9e2622d8e7a0ec136ba1fff639833f05137f8a1ff03e7a93b9a4aea25e7abb8d,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+3bc629e8-7bf8-40c2-965b-87eb155e0065,mtcBSv64.sys,TRUE,2023-01-09,-,mtcbsv64.sys,c9cf1d627078f63a36bbde364cd0d5f2be1714124d186c06db5bcdf549a109f8,-,MiTAC Technology Corporation,21, 1, 4, 0,21, 1, 4, 0,mtcBSv64.sys,['ntoskrnl.exe']
+73196456-40ae-4b6d-8562-07cf99458a7d,kEvP64.sys,TRUE,2023-05-06,-,kevp64.sys,09b0e07af8b17db1d896b78da4dd3f55db76738ee1f4ced083a97d737334a184,-,PowerTool,1.0.1.0,1.0.1.0 built by: WinDDK,kEvP64.sys,['ntoskrnl.exe', 'HAL.dll', 'FLTMGR.SYS']
+52ded752-2708-499e-8f37-98e4a9adc23c,GLCKIO2.sys,TRUE,2023-05-06,-,glckio2.sys,e5b0772be02e2bc807804874cf669e97aa36f5aff1f12fa0a631a3c7b4dd0dc8,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,ad0309c2d225d8540a47250e3773876e05ce6a47a7767511e2f68645562c0686,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+d4664202-d1b9-44d4-97cc-fee2150082db,nvflsh64.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+90e8600a-9b5c-4153-bb06-1d8fbe0ef232,nstr.sys,FALSE,2023-01-09,-,nstr.sys,455bc98ba32adab8b47d2d89bdbadca4910f91c182ab2fc3211ba07d3784537b,-,,,,,-
+b660d253-2b60-46c5-b95a-c354aa5eb154,driver_4f9b5a2f.sys,TRUE,2024-09-10,-,,-,-,-,-,-,-,-
+edd29861-6984-4dbe-8e7c-22e9b6cf68d0,kprocesshacker.sys,TRUE,2023-01-09,-,kprocesshacker.sys,-,-,-,-,-,-,-
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,76660e91f1ff3cb89630df5af4fe09de6098d09baa66b1a130c89c3c5edd5b22,-,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+edd29861-6984-4dbe-8e7c-22e9b6cf68d0,kprocesshacker.sys,TRUE,2023-01-09,-,krpocesshacker.sys,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,5b932eab6c67f62f097a3249477ac46d80ddccdc52654f8674060b4ddf638e5d,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+2651f5c4-d9e1-4b06-92be-e9e7313f87c4,AsIO32.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+a9d9cbb7-b5f6-4e74-97a5-29993263280e,CorsairLLAccess64.sys,TRUE,2023-05-06,-,corsairllaccess64.sys,-,-,-,-,-,-,-
+39742f99-2180-46d7-8538-56667c935cc3,viragt.sys,TRUE,2023-01-09,-,viragt.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,rtkio64.sys,7133a461aeb03b4d69d43f3d26cd1a9e3ee01694e97a0645a3d8aa1a44c39129,,Realtek                                            ,1.008.0823.2017,1.008.0823.2017 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2bea1bca-753c-4f09-bc9f-566ab0193f4a,gdrv.sys,TRUE,2023-01-09,-,,88992ddcb9aaedb8bfcc9b4354138d1f7b0d7dddb9e7fcc28590f27824bee5c3,-,Windows (R) Server 2003 DDK provider,5.2.3790.1830,5.2.3790.1830 built by: WinDDK,gdrv.sys,['ntoskrnl.exe', 'HAL.dll']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,d1c78c8ba70368e96515fb0596598938a8f9efa8f9f5d9e068ee008f03020fee,-,Novell, Inc.,3.1.6,3.1.6.0,libnicm.sys,['ntoskrnl.exe']
+29cb263b-b0b0-40d5-a97d-5ddf4ba79c1e,goad.sys,FALSE,2023-01-09,-,goad.sys,-,-,-,-,-,-,-
+b745b5da-9cd6-4b3a-badf-fbe487497705,WINIODrv.sys,TRUE,2023-01-09,-,winiodrv.sys,c9b49b52b493b53cd49c12c3fa9553e57c5394555b64e32d1208f5b96a5b8c6e,,,,,,['ntoskrnl.exe', 'HAL.dll']
+ee6fa2de-d388-416c-862d-24385c152fad,msr.sys,TRUE,2023-12-02,-,msr.sys,-,-,-,-,-,-,-
+ddbd60c3-0611-4a59-894d-aec84203906f,full.sys,FALSE,2023-01-09,-,full.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow10x64.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,-,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+2bea1bca-753c-4f09-bc9f-566ab0193f4a,gdrv.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+3d7da79b-fe34-45cd-a0c9-d4432d40611c,nvoclock.sys,TRUE,2023-11-02,-,,-,-,-,-,-,-,-
+c44e6197-efab-49d2-8a5f-04ae4a0f0ea0,jnprva.sys,TRUE,2024-09-11,-,jnprva.sys,-,-,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,845f1e228de249fc1ddf8dc28c39d03e8ad328a6277b6502d3932e83b879a65a,-,,,,,['ntoskrnl.exe']
+bb808089-5857-4df2-8998-753a7106cb44,DBUtilDrv2.sys,TRUE,2023-01-09,-,dbutildrv2.sys,71fe5af0f1564dc187eea8d59c0fbc897712afa07d18316d2080330ba17cf009,-,Dell,2.7.0.0,,,['ntoskrnl.exe', 'WDFLDR.SYS']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,,db711ec3f4c96b60e4ed674d60c20ff7212d80e34b7aa171ad626eaa8399e8c7,-,Realtek                                            ,1.004.0105.2016,1.004.0105.2016 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+5c45ae9e-cb6f-4eab-a070-b0187202e080,amigendrv64.sys,TRUE,2023-05-06,-,amigendrv64.sys,-,-,-,-,-,-,-
+0590655c-baa2-481a-b909-463534bd7a5e,daxin_blank5.sys,TRUE,2023-02-28,-,daxin_blank5.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkiow8x64.sys,082c39fe2e3217004206535e271ebd45c11eb072efde4cc9885b25ba5c39f91d,-,Realtek                                            ,1.008.0823.2017,1.008.0823.2017,rtkiow8x64.sys ,['ntoskrnl.exe', 'HAL.dll']
+0fc0563c-de9f-41d8-806a-748e04d57365,deame.sys,TRUE,2023-03-04,-,gftkyj64.sys,-,-,-,-,-,-,-
+7a722cd5-69ec-4680-9f20-9387f249a891,ElbyCDIO.sys,TRUE,2023-05-06,-,elbycdio.sys,8f68ca89910ebe9da3d02ec82d935de1814d79c44f36cd30ea02fa49ae488f00,-,Elaborate Bytes AG,6, 0, 0, 0,6, 0, 0, 1,ElbyCDIO.sys,['ntoskrnl.exe', 'HAL.dll']
+23f11e19-0776-4dd4-9c9c-7f6b60f8553f,ATSZIO.sys,TRUE,2023-01-09,-,atszio.sys,01e024cb14b34b6d525c642a710bfa14497ea20fd287c39ba404b10a8b143ece,-,ASUSTek Computer Inc.,0.2.1.7,0.2.1.7,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+0eb5f4ce-12a7-4b45-b021-42b995de07c5,Air_SYSTEM10.sys,TRUE,2023-03-03,-,air_system10.sys,f461414a2596555cece5cfee65a3c22648db0082ca211f6238af8230e41b3212,,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+1524a54d-520d-4fa4-a7d5-aaaa066fbfc4,dbk64.sys,TRUE,2023-01-09,-,dbk64.sys,626fae47811450d080d08c3d9fd890aa64bfecdc45eacd42a40850c1833c8763,-,,,,,['ksecdd.sys', 'ntoskrnl.exe', 'WDFLDR.SYS']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,libnicm.sys,95d50c69cdbf10c9c9d61e64fe864ac91e6f6caa637d128eb20e1d3510e776d3,-,Micro Focus,3.1.12,3.1.12.0,libnicm.sys,['ntoskrnl.exe']
+c734bcff-aaaa-4450-a9a9-25ee52aa7ff1,ktes.sys,FALSE,2023-06-05,-,ktes.sys,,-,,,,,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,7fc01f25c4c18a6c539cda38fdbf34b2ff02a15ffd1d93a7215e1f48f76fb3be,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+2cfede23-67f4-4af7-830f-c95ba30a43ae,WinIo64A.sys,FALSE,2023-01-09,-,winio64a.sys,-,-,,,,,-
+54d67d79-0268-4c5f-be7e-0f74cd20828a,NTIOLib_X64.sys,TRUE,2023-01-09,-,ntiolib_x64.sys,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkiow8x64.sys,TRUE,2023-01-09,-,,a6f7897cd08fe9de5e902bb204ff87215584a008f458357d019a50d6139ca4af,,Realtek                                            ,1.001.0725.2012,1.001.0725.2012 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkio.sys,caa85c44eb511377ea7426ff10df00a701c07ffb384eef8287636a4bca0b53ab,-,Windows (R) Codename Longhorn DDK provider,6.0.6000.16386,6.0.6000.16386 built by: WinDDK,rtkio.sys,['ntoskrnl.exe', 'HAL.dll']
+30d6c39c-1d93-4101-8dd3-322ff0ab7fb3,NetFlt.sys,FALSE,2023-01-09,-,,-,-,-,-,-,-,-
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,06c5ebd0371342d18bc81a96f5e5ce28de64101e3c2fd0161d0b54d8368d2f1f,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe']
+7c83cb1a-a5ab-4ea0-aa69-0e9a1d09a82f,GVCIDrv64.sys,TRUE,2023-01-09,-,gvcidrv64.sys,42f0b036687cbd7717c9efed6991c00d4e3e7b032dc965a2556c02177dfdad0f,-,,,,,['ntoskrnl.exe', 'HAL.dll', 'WDFLDR.SYS']
+9074a02a-b1ca-4bfb-8918-5b88e91c04a2,superbmc.sys,TRUE,2023-01-09,-,,c9c60f560440ff16ad3c767ff5b7658d5bda61ea1166efe9b7f450447557136e,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+db666d40-c9fa-4039-bfac-a5d7afd61b67,bedaisy.sys,TRUE,2023-04-22,-,,cf66fcbcb8b2ea7fb4398f398b7480c50f6a451b51367718c36330182c1bb496,-,,,,,['FLTMGR.SYS', 'ntoskrnl.exe']
+b745b5da-9cd6-4b3a-badf-fbe487497705,WINIODrv.sys,TRUE,2023-01-09,-,winiodrv.sys,c9b49b52b493b53cd49c12c3fa9553e57c5394555b64e32d1208f5b96a5b8c6e,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+724d7989-dfce-4bb2-9beb-dee15df5b790,skill.sys,TRUE,2023-07-22,-,,-,-,-,-,-,-,-
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio.sys,TRUE,2023-01-09,-,rtkiow10x64.sys,-,-,-,-,-,-,-
+942f58d2-1300-4957-98a0-5f8d601bf55b,sepdrv3_1.sys,TRUE,2023-11-02,-,,b2bc7514201727d773c09a1cfcfae793fcdbad98024251ccb510df0c269b04e6,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+c3cca618-5a7f-4a51-8785-cb328fbfb0df,viragt64.sys,TRUE,2023-01-09,-,viraglt64.sys,-,-,-,-,-,-,-
+ee2d68aa-1a65-4967-8627-73590b041538,DirectIo32.sys,TRUE,2023-05-06,-,directio32.sys,38b3eb8c86201d26353aab625cea672e60c2f66ce6f5e5eda673e8c3478bf305,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+da7314dc-6cf1-4d74-a0d1-796fc08944f8,windbg.sys,TRUE,2023-05-20,-,windbg.sys,e6f764c3b5580cd1675cbf184938ad5a201a8c096607857869bd7c3399df0d12,-,Microsoft Corporation,10.0.19041.685,10.0.19041.685 (WinBuild.160101.0800),windbg.sys,['ntoskrnl.exe', 'ntoskrnl.exe', 'HAL.dll']
+351ff5ca-f07b-4eb6-9300-d5d31514defb,nscm.sys,TRUE,2023-01-09,-,nscm.sys,76660e91f1ff3cb89630df5af4fe09de6098d09baa66b1a130c89c3c5edd5b22,,Novell, Inc.,3.1.11,3.1.11.0,nscm.sys,['ntoskrnl.exe', 'nicm.sys']
+1d2cdef1-de44-4849-80e5-e2fa288df681,IQVW32.sys,TRUE,2023-01-09,-,iqvw64e.sys,-,-,-,-,-,-,-
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,1b17d12076d047e74d15e6e51e10497ad49419bec7fbe93386c57d3efbaadc0b,-,REALiX(tm),7.30,7.30 built by: WinDDK
+39742f99-2180-46d7-8538-56667c935cc3,viragt.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-
+ebdde780-e142-44e7-a998-504c516f4695,-,TRUE,2023-07-22,-,,-,-,-,-,-
+0f21a584-6ace-4242-82cb-9766cea6973a,CITMDRV_IA64.sys,TRUE,2023-01-09,-,citmdrv_ia64.sys,ac3f613d457fc4d44fa27b2e0b1baa62c09415705efb5a40a4756da39b3ac165,-,,,,,['ntoskrnl.exe']
+8d3f27bd-c3fd-48d0-913a-e2caa6fbd025,rtkio64.sys,TRUE,2023-01-09,-,,8ef59605ebb2cb259f19aba1a8c122629c224c58e603f270eaa72f516277620c,-,Realtek                                            ,1.002.0116.2015,1.002.0116.2015 built by: WinDDK,rtkio64.sys ,['ntoskrnl.exe', 'HAL.dll']
+6ec5ddda-f302-4008-a73e-12814c1d571f,ATSZIO.sys,TRUE,2023-05-06,-,atszio.sys,0da746e49fd662be910d0e366934a7e02898714eaaa577e261ab40eb44222b5c,-,ASUSTek Computer Inc.,0.2.1.7,0.2.1.7,ATSZIO.sys,['ntoskrnl.exe', 'HAL.dll']
+2225128d-a23f-434a-aaee-69a88ea64fbd,-,TRUE,2023-07-22,-,,-,-,-,-,-
+e769d1f6-8a38-426f-b5e7-447241204ee1,-,TRUE,2023-11-02,-,,-,-,-,-,-
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,,f48f31bf9c6abbd44124b66bce2ab1200176e31ef1e901733761f2b5ceb60fb2,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+e32bc3da-4db1-4858-a62c-6fbe4db6afbd,RTCore64.sys,TRUE,2023-01-09,-,rtcore64.sys,cdd2a4575a46bada4837a6153a79c14d60ee3129830717ef09e0e3efd9d00812,-,,,,,['ntoskrnl.exe', 'HAL.dll']
+375e8de3-aae4-488d-8273-66744978b45f,szkg64.sys,TRUE,2025-01-10,-,,-,-,-,-,-,-,-
+2740a074-1e06-4f75-9c6a-dc57a3f85189,POORTRY1.sys,TRUE,2023-03-04,-,poortry1.sys,575e58b62afab094c20c296604dc3b7dd2e1a50f5978d8ee24b7dca028e97316,-,,,,,['ntoskrnl.exe']
+2b949a0d-939f-456a-a34f-4589d7712227,libnicm.sys,TRUE,2023-01-09,-,,-,-,-,-,-,-,-

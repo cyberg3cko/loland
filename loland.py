@@ -20,33 +20,73 @@ def write_to_file(file_to_write, mode, content):
 
 def main():
     if status == 200:
-        write_to_file(outfile, "w", "driver_id,kvs_filename,kvs_tag,kvs_sha256,kvs_authenti_sha256,tbs_sha256\n")
+        write_to_file(outfile, "w", "driver_id,driver_tags,driver_verified,driver_created,driver_commands,kvs_filename,kvs_sha256,kvs_publisher,kvs_company,kvs_prodversion,kvs_fileversion,kvs_origfilename,kvs_imports\n")
         tdrivers = BeautifulSoup(page.content, "html.parser")
         jdrivers = json.loads(tdrivers.text)
 
         # cycling through each driver
         for driver in jdrivers:
             driver_id = driver["Id"]
-            tags = driver["Tags"]
+            driver_tags = driver["Tags"]
+            driver_verified = driver["Verified"]
+            driver_created = driver["Created"]
+            # checking for Commands
+            if '"Commands"' in str(driver):
+                for command in driver["Commands"]:
+                    if command == "Command":
+                        driver_command = driver["Commands"]["Command"]
+                        driver_commands = driver_command.replace(",","%2C")
+                    else:
+                        driver_commands = "-"
+            else:
+                driver_commands = "-"
             for known_vulnerable_sample in driver["KnownVulnerableSamples"]:
                 kvs_filename = known_vulnerable_sample["Filename"].lower()
-
                 # checking for file SHA256 hash
-                if "SHA256" in str(known_vulnerable_sample):
+                if '"SHA256"' in str(known_vulnerable_sample):
                     kvs_sha256 = known_vulnerable_sample["SHA256"]
                 else:
                     kvs_sha256 = "-"
-
-                # checking for Authenti SHA256 hash
+                # checking for Publisher
+                if '"Publisher"' in str(known_vulnerable_sample):
+                    kvs_publisher = known_vulnerable_sample["Publisher"]
+                else:
+                    kvs_publisher = "-"
+                # checking for Company
+                if '"Company"' in str(known_vulnerable_sample):
+                    kvs_company = known_vulnerable_sample["Company"]
+                else:
+                    kvs_company = "-"
+                # checking for ProductVersion
+                if '"ProductVersion"' in str(known_vulnerable_sample):
+                    kvs_prodversion = known_vulnerable_sample["ProductVersion"]
+                else:
+                    kvs_prodversion = "-"
+                # checking for FileVersion
+                if '"FileVersion"' in str(known_vulnerable_sample):
+                    kvs_fileversion = known_vulnerable_sample["FileVersion"]
+                else:
+                    kvs_fileversion = "-"
+                # checking for OriginalFileName
+                if '"OriginalFilename"' in str(known_vulnerable_sample):
+                    kvs_origfilename = known_vulnerable_sample["OriginalFilename"]
+                else:
+                    kvs_origfilename = "-"
+                # checking for Imports
+                if '"Imports"' in str(known_vulnerable_sample):
+                    kvs_imports = known_vulnerable_sample["Imports"]
+                else:
+                    kvs_imports = "-"
+                """# checking for Authenti SHA256 hash
                 if "AuthentihashSHA256" in str(known_vulnerable_sample):
                     kvs_authenti_sha256 = known_vulnerable_sample["AuthentihashSHA256"]
                 elif "Authentihash" in str(known_vulnerable_sample):
                     kvs_authenti_sha256 = known_vulnerable_sample["Authentihash"]["SHA256"]
                 else:
                     kvs_authenti_sha256 = "-"
-
+                """
                 # checking for TBS SHA256 hash
-                if "Signatures" in known_vulnerable_sample:
+                if '"Signatures"' in known_vulnerable_sample:
                     for signature in known_vulnerable_sample["Signatures"]:
                         if "TBS" in str(signature):
                             for certifcate in signature["Certificates"]:
@@ -56,7 +96,7 @@ def main():
                                     tbs_sha256 = "-"
                         else:
                             tbs_sha256 = "-"
-                elif "Signature" in known_vulnerable_sample:
+                elif '"Signature"' in known_vulnerable_sample:
                     for signature in known_vulnerable_sample["Signature"]:
                         if "TBS" in str(signature):
                             for certifcate in signature["Certificates"]:
@@ -66,16 +106,17 @@ def main():
                                     tbs_sha256 = "-"
                         else:
                             tbs_sha256 = "-"
-
                 # writing output to csv file
-                if len(tags) > 0 and ".sys" in str(tags):
-                    for tag in tags:
+                if len(driver_tags) > 0 and ".sys" in str(driver_tags):
+                    for tag in driver_tags:
                         if tag.endswith(".sys"):
-                            loldrivers_row = "{},{},{},{},{},{}\n".format(driver_id, kvs_filename, tag.lower(), kvs_sha256, kvs_authenti_sha256, tbs_sha256)
+                            loldrivers_row = "{},{},{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, tag, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_imports)
                             write_to_file("."+outfile, "a", loldrivers_row)
                 else:
-                    loldrivers_row = "{},{},-,{},{},{}\n".format(driver_id, kvs_filename, kvs_sha256, kvs_authenti_sha256, tbs_sha256)
+                    loldrivers_row = "{},-,{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_imports)
                     write_to_file("."+outfile, "a", loldrivers_row)
+    else:
+        print("\n\t{} status code received: unable to collect LOLDrivers.\n".format(str(status)))
 
     if os.path.exists("."+outfile):
         with open("."+outfile) as temp:
