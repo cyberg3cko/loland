@@ -20,7 +20,7 @@ def write_to_file(file_to_write, mode, content):
 
 def main():
     if status == 200:
-        write_to_file(outfile, "w", "driver_id,driver_tags,driver_verified,driver_created,driver_commands,kvs_filename,kvs_sha256,kvs_publisher,kvs_company,kvs_prodversion,kvs_fileversion,kvs_origfilename,kvs_imports,tbs_sha256\n")
+        write_to_file(outfile, "w", "driver_id,driver_tags,driver_verified,driver_category,driver_created,driver_commands,kvs_filename,kvs_sha256,kvs_publisher,kvs_company,kvs_prodversion,kvs_fileversion,kvs_origfilename,kvs_imports,tbs_sha256\n")
         tdrivers = BeautifulSoup(page.content, "html.parser")
         jdrivers = json.loads(tdrivers.text)
 
@@ -30,6 +30,7 @@ def main():
             driver_tags = driver["Tags"]
             driver_verified = driver["Verified"]
             driver_created = driver["Created"]
+            driver_category = driver["Category"]
             # checking for Commands
             try:
                 if "Commands" in str(driver):
@@ -142,10 +143,10 @@ def main():
                 if len(driver_tags) > 0 and ".sys" in str(driver_tags):
                     for driver_tag in driver_tags:
                         if driver_tag.endswith(".sys"):
-                            loldrivers_row = "{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_tag, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
+                            loldrivers_row = "{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_tag, driver_verified, driver_created, driver_category, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
                             write_to_file("."+outfile, "a", loldrivers_row)
                 else:
-                    loldrivers_row = "{},-,{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_verified, driver_created, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
+                    loldrivers_row = "{},-,{},{},{},{},{},{},{},{},{},{},{}\n".format(driver_id, driver_verified, driver_created, driver_category, driver_commands, kvs_filename, kvs_sha256, kvs_publisher, kvs_company, kvs_prodversion, kvs_fileversion, kvs_origfilename, kvs_import, tbs_sha256)
                     write_to_file("."+outfile, "a", loldrivers_row)
     else:
         print("\n\t{} status code received: unable to collect LOLDrivers.\n\tEnsure you have https://www.loldrivers.io open in your browser.\n".format(str(status)))
