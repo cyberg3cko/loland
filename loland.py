@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import os
+import shutil
 import time
 from datetime import datetime
 
@@ -31,7 +32,10 @@ def main():
             driver_tags = driver["Tags"]
             driver_verified = driver["Verified"]
             driver_created = driver["Created"]
-            driver_category = driver["Category"].replace(" drivers", "").replace(" driver", "").strip()
+            driver_category = driver["Category"].replace("drivers", "").replace("driver", "").strip()
+            if " driver" in driver_category:
+                print(driver_category)
+                time.sleep(2)
             # checking for Commands
             try:
                 if "Commands" in str(driver):
@@ -156,6 +160,7 @@ def main():
             lines = list(set(lines))
         for line in lines:
             write_to_file(outfile, "a", line)
+    shutil.copy2(outfile, outfile[7:])
 
 
 if __name__ == "__main__":
